@@ -12,6 +12,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const backButton = document.getElementById('backButton');
 
     let currentView = 'upload';
+    let uploadedFiles = []; // Track uploaded files
+
     const views = {
         upload: {
             title: 'NEW PROJECT',
@@ -35,6 +37,24 @@ document.addEventListener('DOMContentLoaded', function() {
         backButton.style.display = viewName === 'upload' ? 'none' : 'flex';
     }
 
+    // File validation function
+    function isValidCSV(file) {
+        const validTypes = ['text/csv', 'application/vnd.ms-excel'];
+        return validTypes.includes(file.type) || file.name.toLowerCase().endsWith('.csv');
+    }
+
+    document.getElementById('uploadBtn').addEventListener('click', function() {
+        document.getElementById('fileInput').click();
+    });
+    
+    document.getElementById('fileInput').addEventListener('change', function(event) {
+        // Handle the file selection here
+        const file = event.target.files[0];
+        if (file) {
+            console.log("File selected:", file.name);
+        }
+    });
+
     // upload functionality
     dropZone.addEventListener('dragover', (e) => {
         e.preventDefault();
@@ -52,12 +72,57 @@ document.addEventListener('DOMContentLoaded', function() {
         handleFiles(e.dataTransfer.files);
     });
 
+    // File input change event
+    fileInput.addEventListener('change', (e) => {
+        handleFiles(e.target.files);
+    });
+
+    // Upload button click event
+    document.querySelectorAll('.button').forEach(button => {
+        button.addEventListener('click', () => {
+            if (button.textContent.includes('Upload')) {
+                fileInput.click();
+            }
+        });
+    });
+
+    function handleFiles(files) {
+        const fileList = document.querySelector('.file-list');
+        fileList.innerHTML = ''; // Clear previous files
+        uploadedFiles = []; // Reset uploaded files
+
+        Array.from(files).forEach(file => {
+            if (isValidCSV(file)) {
+                const fileSize = (file.size / (1024 * 1024)).toFixed(2);
+                const fileItem = document.createElement('div');
+                fileItem.className = 'file-item';
+                fileItem.innerHTML = `
+                    <span>${file.name}</span>
+                    <div>
+                        <span>${fileSize} MB</span>
+                        <span style="margin-left: 20px; color: #6b7280;">Just now</span>
+                    </div>
+                `;
+                fileList.appendChild(fileItem);
+                uploadedFiles.push(file);
+            } else {
+                alert(`Invalid file type: ${file.name}. Please upload CSV files only.`);
+            }
+        });
+
+        // Enable/disable generate visual button based on uploaded files
+        generateVisual.disabled = uploadedFiles.length === 0;
+        generateVisual.style.opacity = uploadedFiles.length > 0 ? '1' : '0.5';
+    }
+
     backButton.addEventListener('click', () => {
         switchView('upload');
     });
 
     generateVisual.addEventListener('click', () => {
-        switchView('chart');
+        if (uploadedFiles.length > 0) {
+            switchView('chart');
+        }
     });
 
     tabs.forEach(tab => {
@@ -82,20 +147,5 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    function handleFiles(files) {
-        Array.from(files).forEach(file => {
-            const fileSize = (file.size / (1024 * 1024)).toFixed(2);
-            const fileItem = document.createElement('div');
-            fileItem.className = 'file-item';
-            fileItem.innerHTML = `
-                <span>${file.name}</span>
-                <div>
-                    <span>${fileSize} MB</span>
-                    <span style="margin-left: 20px; color: #6b7280;">Just now</span>
-                </div>
-            `;
-            document.querySelector('.file-list').appendChild(fileItem);
-        });
-    }
     switchView('upload');
 });

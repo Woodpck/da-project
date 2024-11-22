@@ -3,100 +3,113 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Visualization Platform</title>
+    <title>DataViz Pro</title>
     <link href="style.css" rel="stylesheet">
     <script src="src/index.js"></script> 
 </head>
 <body>
-    <div class="container">
-        
-        <div class="sidebar">
-            <div class="section-title">Projects</div>
-            <div class="menu-item" data-view="upload">
-                <span>📁 Saved Projects</span>
-            </div>
-            
-            <div class="section-title" style="margin-top: 20px;">Files</div>
-            <div class="menu-item">
-                <span>📄 Your files</span>
-            </div>
-            <div class="menu-item sub-menu-item">
-                <span>example.csv</span>
-            </div>
-            <div class="menu-item upload-new-file">
-                <span>+ Upload new file</span>
-            </div>
+    <!-- Navigation Header -->
+    <div class="nav-header">
+        <img class="logo" src="images/pogionly.png" alt="Logo" />
+        <div class="header-text">
+            <div class="nav-title">POGI ONLY</div>
+            <div class="nav-tagline">Make your data handsome <span class="emoji">😎</span></div>
         </div>
-
-        <div class="main-content">
-            <div class="header">
-                <div style="display: flex; align-items: center;">
-                    <h1 id="pageTitle">NEW PROJECT</h1>
+    </div>
+    
+    <!-- Content -->
+    <div class="content-container">
+        <div class="website-poc">DataViz Pro</div>
+        <div class="container">
+            <div class="sidebar">
+                <div class="section-title">Projects</div>
+                <div class="menu-item" data-view="upload">
+                    <span>📁 Saved Projects</span>
+                </div>
+                
+                <div class="section-title" style="margin-top: 20px;">Files</div>
+                <div class="menu-item">
+                    <span>📄 Your files</span>
+                </div>
+                <div class="menu-item sub-menu-item">
+                    <span>example.csv</span>
+                </div>
+                <div class="menu-item upload-new-file">
+                    <span id="uploadBtn">+ Upload new file</span>
+                    <input type="file" accept=".csv" id="fileInput" style="display: none">
                 </div>
             </div>
-            
-            <button id="backButton" class="back-button" style="display: none;">
-                <span class="back-arrow">←</span>
-                Back to Projects
-            </button>
 
-            <div id="contentContainer">
-                <!-- Initial Upload View -->
-                <div id="uploadView" class="view-section">
-                    <div class="upload-area" id="dropZone">
-                        <p>Drag and drop files here or</p>
-                        <button class="button">Upload file</button>
-                        <input type="file" id="fileInput" style="display: none">
+            <div class="main-content">
+                <div class="header">
+                    <div style="display: flex; align-items: center;">
+                        <h1 id="pageTitle">NEW PROJECT</h1>
                     </div>
+                </div>
+                
+                <button id="backButton" class="back-button" style="display: none;">
+                    <span class="back-arrow">←</span>
+                    Back to Projects
+                </button>
 
-                    <div class="file-list">
-                        <div class="file-item">
-                            <span>example.csv</span>
-                            <div>
-                                <span>3.39 MB</span>
-                                <span style="margin-left: 20px; color: #6b7280;">2 minutes ago</span>
+                <div id="contentContainer">
+                    <!-- Initial Upload View -->
+                    <div id="uploadView" class="view-section">
+                        <div class="upload-area" id="dropZone">
+                            <p>Drag and drop CSV files here or</p>
+                            <button class="button">Upload CSV</button>
+                            <input type="file" accept=".csv" id="fileInput" style="display: none">
+                        </div>
+
+                        <div class="file-list">
+                            <div class="file-item">
+                                <span>example.csv</span>
+                                <div>
+                                    <span>3.39 MB</span>
+                                    <span style="margin-left: 20px; color: #6b7280;">2 minutes ago</span>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    
-                    <button class="button" style="float: right;" id="generateVisual">Generate visual report</button>
-                </div>
-
-                <div id="chartView" class="view-section" style="display: none;">
-                    <div class="tabs">
-                        <button class="tab active">CHART TYPE</button>
-                        <button class="tab">EDIT DETAILS</button>
+                        
+                        <button class="button" style="float: right;" id="generateVisual">Generate visual report</button>
                     </div>
 
-                    <div id="chartTypePanel">
-                        <div class="chart-grid">
-                            <div class="chart-option">Bar Chart</div>
-                            <div class="chart-option">Line Chart</div>
-                            <div class="chart-option">Pie Chart</div>
-                            <div class="chart-option">Scatter Plot</div>
+                    <div id="chartView" class="view-section" style="display: none;">
+                        <div class="tabs">
+                            <button class="tab active">CHART TYPE</button>
+                            <button class="tab">EDIT DETAILS</button>
                         </div>
-                    </div>
 
-                    <div id="editDetailsPanel" style="display: none;">
-                        <div class="form-group">
-                            <label>Title</label>
-                            <input type="text" placeholder="Enter chart title">
+                        <div id="chartTypePanel">
+                            <div class="chart-grid">
+                                <div class="chart-option">Bar Chart</div>
+                                <div class="chart-option">Line Chart</div>
+                                <div class="chart-option">Pie Chart</div>
+                                <div class="chart-option">Scatter Plot</div>
+                            </div>
                         </div>
-                        <div class="form-group">
-                            <label>Description</label>
-                            <textarea rows="4" placeholder="Enter chart description"></textarea>
-                        </div>
-                        <div class="form-group">
-                            <label>Notes</label>
-                            <textarea rows="2" placeholder="Enter additional notes"></textarea>
-                        </div>
-                        <div class="action-buttons">
-                            <button class="button">Save Project</button>
-                            <button class="button">Download</button>
-                        </div>
-                    </div>
 
-                    <div class="preview-area">
+                        <div id="editDetailsPanel" style="display: none;">
+                            <div class="form-group">
+                                <label>Title</label>
+                                <input type="text" placeholder="Enter chart title">
+                            </div>
+                            <div class="form-group">
+                                <label>Description</label>
+                                <textarea rows="4" placeholder="Enter chart description"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label>Notes</label>
+                                <textarea rows="2" placeholder="Enter additional notes"></textarea>
+                            </div>
+                            <div class="action-buttons">
+                                <button class="button">Save Project</button>
+                                <button class="button">Download</button>
+                            </div>
+                        </div>
+
+                        <div class="preview-area">
+                        </div>
                     </div>
                 </div>
             </div>

@@ -4,6 +4,63 @@
     box-sizing: border-box;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
+body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .nav-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 90px; /* Increased height for more spacing */
+            background-color: #f9f9f9; /* Lightened for a clean, modern look */
+            display: flex;
+            align-items: center;
+            padding: 0 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            z-index: 100;
+        }
+        .logo {
+            width: 50px; /* Moderate size for balance */
+            height: 50px; /* Ensures it's a square */
+            margin-right: 20px; /* Creates space between logo and text */
+            border-radius: 50%; /* Adds a rounded style */
+        }
+        .nav-title {
+            font-size: 22px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 4px; /* Adds space below the title */
+        }
+        .content-container {
+            margin-top: 80px; /* Offset for the fixed nav-header */
+        }
+        .website-poc {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 72px;
+            color: #e0e0e0;
+            z-index: -1;
+            opacity: 0.1;
+            pointer-events: none;
+}
+
+.emoji {
+    margin-left: 5px; /* Adds space between text and emoji */
+}
+
+.nav-tagline {
+    font-size: 14px;
+    color: #555;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+
+
 
 .container {
     display: flex;
@@ -29,6 +86,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.header-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .back-button {
