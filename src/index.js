@@ -72,12 +72,12 @@ document.addEventListener('DOMContentLoaded', function() {
         handleFiles(e.dataTransfer.files);
     });
 
-    // File input change event
+
     fileInput.addEventListener('change', (e) => {
         handleFiles(e.target.files);
     });
 
-    // Upload button click event
+   
     document.querySelectorAll('.button').forEach(button => {
         button.addEventListener('click', () => {
             if (button.textContent.includes('Upload')) {
@@ -88,8 +88,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function handleFiles(files) {
         const fileList = document.querySelector('.file-list');
-        fileList.innerHTML = ''; // Clear previous files
-        uploadedFiles = []; // Reset uploaded files
+        fileList.innerHTML = ''; 
+        uploadedFiles = []; 
 
         Array.from(files).forEach(file => {
             if (isValidCSV(file)) {
@@ -110,7 +110,6 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
 
-        // Enable/disable generate visual button based on uploaded files
         generateVisual.disabled = uploadedFiles.length === 0;
         generateVisual.style.opacity = uploadedFiles.length > 0 ? '1' : '0.5';
     }
@@ -148,4 +147,37 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     switchView('upload');
+});
+
+function toggleSidebar() {
+    const sidebar = document.querySelector('.sidebar');
+    const toggleBtn = document.querySelector('.toggle-btn');
+    sidebar.classList.toggle('collapsed');
+    
+    if (sidebar.classList.contains('collapsed')) {
+        toggleBtn.textContent = '☰';
+    } else {
+        toggleBtn.textContent = '×'; 
+    }
+}
+
+// Handle file selection and display the file in the file list
+const uploadBtn = document.getElementById('uploadCsvBtn');
+const fileInput = document.getElementById('fileInput');
+const fileList = document.getElementById('fileList');
+
+// Trigger file input click when upload button is clicked
+uploadBtn.addEventListener('click', () => {
+    fileInput.click();
+});
+
+// Handle file input change event
+fileInput.addEventListener('change', (event) => {
+    const file = event.target.files[0];
+    if (file) {
+        const fileItem = document.createElement('div');
+        fileItem.classList.add('file-item');
+        fileItem.innerHTML = `<span>${file.name}</span><div><span>${(file.size / 1024).toFixed(2)} KB</span></div>`;
+        fileList.appendChild(fileItem);
+    }
 });

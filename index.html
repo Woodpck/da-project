@@ -22,6 +22,8 @@
         <div class="website-poc">DataViz Pro</div>
         <div class="container">
             <div class="sidebar">
+                <!-- Burger/Close icon inside the sidebar -->
+                <button class="toggle-btn" onclick="toggleSidebar()">☰</button>
                 <div class="section-title">Projects</div>
                 <div class="menu-item" data-view="upload">
                     <span>📁 Saved Projects</span>
@@ -57,18 +59,12 @@
                     <div id="uploadView" class="view-section">
                         <div class="upload-area" id="dropZone">
                             <p>Drag and drop CSV files here or</p>
-                            <button class="button">Upload CSV</button>
+                            <button class="button" id="uploadCsvBtn">Upload CSV</button>
                             <input type="file" accept=".csv" id="fileInput" style="display: none">
                         </div>
 
-                        <div class="file-list">
-                            <div class="file-item">
-                                <span>example.csv</span>
-                                <div>
-                                    <span>3.39 MB</span>
-                                    <span style="margin-left: 20px; color: #6b7280;">2 minutes ago</span>
-                                </div>
-                            </div>
+                        <div class="file-list" id="fileList">
+                            <!-- Dynamically added file items will appear here -->
                         </div>
                         
                         <button class="button" style="float: right;" id="generateVisual">Generate visual report</button>
