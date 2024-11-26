@@ -14,20 +14,6 @@ document.addEventListener('DOMContentLoaded', function () {
     let currentView = 'upload';
     let uploadedFiles = []; // Track uploaded files
 
-    fetch('http://127.0.0.1:5000/get-data')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Network response was not ok ' + response.statusText);
-            }
-            return response.json();
-        })
-        .then(data => {
-            console.log(data); // Print the data to the console 
-        })
-        .catch(error => {
-            console.error('There has been a problem with your fetch operation:', error);
-        });
-
     const views = {
         upload: {
             title: 'NEW PROJECT',
