@@ -7,7 +7,8 @@
     <title>DataViz Pro</title>
     <link href="style.css" rel="stylesheet">
     <script src="src/index.js"></script>
-    <script src="main.js" defer></script>
+    <script src="src/main.js" defer></script>
+    <script src="src/upload.js" defer></script>
 </head>
 
 <body>
@@ -36,9 +37,9 @@
                 <div class="menu-item">
                     <span>📄 Your files</span>
                 </div>
-                <div class="menu-item sub-menu-item">
+                <!-- <div class="menu-item sub-menu-item">
                     <span>example.csv</span>
-                </div>
+                </div> -->
                 <div class="menu-item upload-new-file">
                     <span id="uploadBtn">+ Upload new file</span>
                     <input type="file" accept=".csv" id="fileInput" style="display: none">
@@ -62,8 +63,11 @@
                     <div id="uploadView" class="view-section">
                         <div class="upload-area" id="dropZone">
                             <p>Drag and drop CSV files here or</p>
-                            <button class="button" id="uploadCsvBtn">Upload CSV</button>
-                            <input type="file" accept=".csv" id="fileInput" style="display: none">
+                            <form id="uploadForm">
+                                <button class="button" id="uploadCsvBtn">Upload CSV</button>
+                                <input type="file" accept=".csv" id="fileInput" style="display: none">
+                                <button type="submit">Save file</button>
+                            </form>
                         </div>
 
                         <div class="file-list" id="fileList">
