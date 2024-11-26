@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     // Elements
     const dropZone = document.getElementById('dropZone');
     const fileInput = document.getElementById('fileInput');
@@ -13,6 +13,20 @@ document.addEventListener('DOMContentLoaded', function() {
 
     let currentView = 'upload';
     let uploadedFiles = []; // Track uploaded files
+
+    fetch('http://127.0.0.1:5000/get-data')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok ' + response.statusText);
+            }
+            return response.json();
+        })
+        .then(data => {
+            console.log(data); // Print the data to the console 
+        })
+        .catch(error => {
+            console.error('There has been a problem with your fetch operation:', error);
+        });
 
     const views = {
         upload: {
@@ -30,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
         Object.values(views).forEach(view => {
             view.element.style.display = 'none';
         });
-        
+
         views[viewName].element.style.display = 'block';
         pageTitle.textContent = views[viewName].title;
         currentView = viewName;
@@ -43,11 +57,11 @@ document.addEventListener('DOMContentLoaded', function() {
         return validTypes.includes(file.type) || file.name.toLowerCase().endsWith('.csv');
     }
 
-    document.getElementById('uploadBtn').addEventListener('click', function() {
+    document.getElementById('uploadBtn').addEventListener('click', function () {
         document.getElementById('fileInput').click();
     });
-    
-    document.getElementById('fileInput').addEventListener('change', function(event) {
+
+    document.getElementById('fileInput').addEventListener('change', function (event) {
         // Handle the file selection here
         const file = event.target.files[0];
         if (file) {
@@ -77,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
         handleFiles(e.target.files);
     });
 
-   
+
     document.querySelectorAll('.button').forEach(button => {
         button.addEventListener('click', () => {
             if (button.textContent.includes('Upload')) {
@@ -88,8 +102,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function handleFiles(files) {
         const fileList = document.querySelector('.file-list');
-        fileList.innerHTML = ''; 
-        uploadedFiles = []; 
+        fileList.innerHTML = '';
+        uploadedFiles = [];
 
         Array.from(files).forEach(file => {
             if (isValidCSV(file)) {
@@ -128,7 +142,7 @@ document.addEventListener('DOMContentLoaded', function() {
         tab.addEventListener('click', () => {
             tabs.forEach(t => t.classList.remove('active'));
             tab.classList.add('active');
-            
+
             if (tab.textContent === 'CHART TYPE') {
                 chartTypePanel.style.display = 'block';
                 editDetailsPanel.style.display = 'none';
@@ -153,11 +167,11 @@ function toggleSidebar() {
     const sidebar = document.querySelector('.sidebar');
     const toggleBtn = document.querySelector('.toggle-btn');
     sidebar.classList.toggle('collapsed');
-    
+
     if (sidebar.classList.contains('collapsed')) {
         toggleBtn.textContent = '☰';
     } else {
-        toggleBtn.textContent = '×'; 
+        toggleBtn.textContent = '×';
     }
 }
 
