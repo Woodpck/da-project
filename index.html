@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DataViz Pro</title>
     <link href="style.css" rel="stylesheet">
-    <script src="src/index.js"></script> 
+    <script src="src/index.js"></script>
+    <script src="main.js" defer></script>
 </head>
+
 <body>
     <!-- Navigation Header -->
     <div class="nav-header">
@@ -16,7 +19,7 @@
             <div class="nav-tagline">Make your data handsome <span class="emoji">😎</span></div>
         </div>
     </div>
-    
+
     <!-- Content -->
     <div class="content-container">
         <div class="website-poc">DataViz Pro</div>
@@ -28,7 +31,7 @@
                 <div class="menu-item" data-view="upload">
                     <span>📁 Saved Projects</span>
                 </div>
-                
+
                 <div class="section-title" style="margin-top: 20px;">Files</div>
                 <div class="menu-item">
                     <span>📄 Your files</span>
@@ -48,7 +51,7 @@
                         <h1 id="pageTitle">NEW PROJECT</h1>
                     </div>
                 </div>
-                
+
                 <button id="backButton" class="back-button" style="display: none;">
                     <span class="back-arrow">←</span>
                     Back to Projects
@@ -66,7 +69,7 @@
                         <div class="file-list" id="fileList">
                             <!-- Dynamically added file items will appear here -->
                         </div>
-                        
+
                         <button class="button" style="float: right;" id="generateVisual">Generate visual report</button>
                     </div>
 
@@ -112,4 +115,5 @@
         </div>
     </div>
 </body>
+
 </html>
