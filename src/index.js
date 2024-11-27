@@ -16,6 +16,8 @@ document.addEventListener("DOMContentLoaded", function () {
     ".menu-item.sub-menu-item"
   ); // "example.csv" section
 
+  //File stuff
+  // for displaying files
   async function fetchFiles() {
     try {
       const response = await fetch('http://127.0.0.1:5000/files');
@@ -29,6 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const subMenuItem = document.createElement('div');
         subMenuItem.className = 'menu-item sub-menu-container';
         subMenuItem.innerHTML = `<span> ${file} </span>`;
+        subMenuItem.addEventListener('click', () => displayFileContent(file));
         fileList.appendChild(subMenuItem);
       })
     } catch (error) {
@@ -36,7 +39,45 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
-  fetchFiles()
+  async function displayFileContent(fileName) {
+    try {
+      const response = await fetch(`http://127.0.0.1:5000/uploads/${fileName}`);
+      console.log(response);
+      const text = await response.text();
+      displayCSV(text);
+    } catch (error) {
+      console.error('Error fetching file content:', error);
+    }
+  }
+
+  fetchFiles();
+
+  function displayCSV(data) {
+    const rows = data.split('\n');
+    const table = document.createElement('table');
+
+    rows.slice(0, 5).forEach((row, index) => {  // Show only the first 5 rows
+      const tr = document.createElement('tr');
+      const cells = row.split(',');
+
+      cells.forEach(cell => {
+        const cellElement = document.createElement(index === 0 ? 'th' : 'td');
+        cellElement.textContent = cell;
+        tr.appendChild(cellElement);
+      });
+
+      table.appendChild(tr);
+    });
+
+    const tableContainer = document.createElement('div');
+    tableContainer.className = 'table-container';
+    tableContainer.appendChild(table);
+
+    document.getElementById('fileList').innerHTML = '';
+    document.getElementById('fileList').appendChild(tableContainer);
+  }
+
+
 
   let currentView = "upload";
   let uploadedFiles = []; // Track uploaded files
@@ -221,6 +262,8 @@ const fileList = document.getElementById("fileList");
 uploadBtn.addEventListener("click", () => {
   fileInput.click();
 });
+
+
 
 // Handle file input change event
 // fileInput.addEventListener("change", (event) => {
