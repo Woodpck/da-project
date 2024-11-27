@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, send_from_directory
 from flask_cors import CORS
 import os
 
@@ -40,6 +40,9 @@ def get_files():
     except Exception as e: 
         return str(e), 500
 
+@app.route('/uploads/<path:filename>', methods=['GET']) 
+def download_file(filename): 
+    return send_from_directory(UPLOAD_FOLDER, filename)
 
 if __name__ == '__main__':
     app.run(debug=True)
