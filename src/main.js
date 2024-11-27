@@ -34,9 +34,3 @@ function displayCSV(data) {
     document.getElementById('fileList').innerHTML = '';
     document.getElementById('fileList').appendChild(tableContainer);
 }
-
-// // Optional: Toggle sidebar visibility
-// function toggleSidebar() {
-//     const sidebar = document.querySelector('.sidebar');
-//     sidebar.classList.toggle('visible');
-// }

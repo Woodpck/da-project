@@ -16,25 +16,30 @@ document.addEventListener("DOMContentLoaded", function () {
     ".menu-item.sub-menu-item"
   ); // "example.csv" section
 
+  async function fetchFiles() {
+    try {
+      const response = await fetch('http://127.0.0.1:5000/files');
+      const files = await response.json();
+      console.log(files); // Print the files in the console 
+
+      const fileList = document.getElementById('file-list');
+      fileList.innerHTML = '';
+
+      files.forEach(file => {
+        const subMenuItem = document.createElement('div');
+        subMenuItem.className = 'menu-item sub-menu-container';
+        subMenuItem.innerHTML = `<span> ${file} </span>`;
+        fileList.appendChild(subMenuItem);
+      })
+    } catch (error) {
+      console.error('Error fetching files:', error);
+    }
+  }
+
+  fetchFiles()
+
   let currentView = "upload";
   let uploadedFiles = []; // Track uploaded files
-
-  //   fetch("http://127.0.0.1:5000/get-data")
-  //     .then((response) => {
-  //       if (!response.ok) {
-  //         throw new Error("Network response was not ok " + response.statusText);
-  //       }
-  //       return response.json();
-  //     })
-  //     .then((data) => {
-  //       console.log(data); // Print the data to the console
-  //     })
-  //     .catch((error) => {
-  //       console.error(
-  //         "There has been a problem with your fetch operation:",
-  //         error
-  //       );
-  //     });
 
   const views = {
     upload: {
