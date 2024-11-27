@@ -32,8 +32,13 @@ def upload_file():
         file.save(filepath)
         return jsonify({'message': 'File uploaded successfully', 'filename': filename}), 200
 
-
-#    
+@app.route('/files', methods=['GET']) 
+def get_files(): 
+    try: 
+        files = os.listdir(UPLOAD_FOLDER) 
+        return jsonify(files) 
+    except Exception as e: 
+        return str(e), 500
 
 
 if __name__ == '__main__':
