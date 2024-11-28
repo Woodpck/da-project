@@ -11,6 +11,8 @@ body {
 .sub-menu-container {
   display: flex;
   flex-direction: column;
+  padding: 5px 10px;
+  margin-top: 5px;
 }
 .nav-header {
   position: fixed;
@@ -64,12 +66,6 @@ body {
   width: 60px;
 }
 
-.sidebar.collapsed .section-title,
-.sidebar.collapsed .menu-item span {
-  visibility: hidden;
-  display: none;
-}
-
 .sidebar .toggle-btn {
   position: absolute;
   top: 20px;
@@ -111,6 +107,7 @@ body {
   border: 1px solid #007bff;
   cursor: pointer;
   border-radius: 5px;
+  margin: 15px;
 }
 
 .button:hover {
@@ -150,11 +147,16 @@ body {
 }
 
 .sidebar.collapsed .section-title,
+.sidebar.collapsed .your-files,
 .sidebar.collapsed .menu-item span {
   visibility: hidden;
   display: none;
 }
 
+.your-files{
+  padding: 5px 10px;
+  color: #374151;
+}
 .sidebar .toggle-btn {
   position: absolute;
   top: 20px;
@@ -271,13 +273,12 @@ body {
   font-size: 14px;
   font-weight: 600;
   color: #4b5563;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .menu-item {
   display: flex;
   align-items: center;
-  padding: 8px 10px;
   cursor: pointer;
   border-radius: 4px;
   color: #374151;
