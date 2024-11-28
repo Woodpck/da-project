@@ -16,6 +16,22 @@ document.addEventListener("DOMContentLoaded", function () {
     ".menu-item.sub-menu-item"
   ); // "example.csv" section
 
+
+  document.getElementById('optionBarChart').addEventListener('click', () => {
+    console.log('barchart clicked')
+    barChart();
+  })
+
+  document.getElementById('optionLineChart').addEventListener('click', () => {
+    console.log('linechart clicked')
+    lineChart();
+  })
+
+  document.getElementById('optionScatterPlot').addEventListener('click', () => {
+    console.log('scatter plot clicked')
+    scatterPlot();
+  })
+
   //File stuff
   // for displaying files
   async function fetchFiles() {
@@ -202,8 +218,8 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
 
-    generateVisual.disabled = uploadedFiles.length === 0;
-    generateVisual.style.opacity = uploadedFiles.length > 0 ? "1" : "0.5";
+    // generateVisual.disabled = uploadedFiles.length === 0;
+    // generateVisual.style.opacity = uploadedFiles.length > 0 ? "1" : "0.5";
   }
 
   backButton.addEventListener("click", () => {
@@ -211,9 +227,10 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   generateVisual.addEventListener("click", () => {
-    if (uploadedFiles.length > 0) {
-      switchView("chart");
-    }
+    switchView("chart");
+    // barChart()
+    // if (uploadedFiles.length > 0) {
+    // }
   });
 
   tabs.forEach((tab) => {
@@ -262,6 +279,7 @@ const fileList = document.getElementById("fileList");
 uploadBtn.addEventListener("click", () => {
   fileInput.click();
 });
+
 
 
 

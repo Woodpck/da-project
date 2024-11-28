@@ -7,11 +7,13 @@
   <title>DataViz Pro</title>
   <link href="style.css" rel="stylesheet" />
   <script src="src/index.js"></script>
-  <script src="src/main.js" defer></script>
+  <script src="src/displayCSV.js" defer></script>
   <script src="src/upload.js" defer></script>
 </head>
 
 <body>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
   <!-- Navigation Header -->
   <div class="nav-header">
     <img class="logo" src="images/pogionly.png" alt="Logo" />
@@ -47,7 +49,7 @@
           <span id="uploadBtn">+ Upload new file</span>
           <input type="file" accept=".csv" id="fileInput" style="display: none" />
         </div>
-      </div>  
+      </div>
 
       <div class="main-content">
         <div class="header">
@@ -76,7 +78,6 @@
             <div class="file-list" id="fileList">
               <!-- Dynamically added file items will appear here -->
             </div>
-
             <button class="button" style="float: right" id="generateVisual">
               Generate visual report
             </button>
@@ -90,11 +91,13 @@
 
             <div id="chartTypePanel">
               <div class="chart-grid">
-                <div class="chart-option">Bar Chart</div>
-                <div class="chart-option">Line Chart</div>
-                <div class="chart-option">Pie Chart</div>
-                <div class="chart-option">Scatter Plot</div>
+                <div class="chart-option" id="optionBarChart">Bar Chart</div>
+                <div class="chart-option" id="optionLineChart">Line Chart</div>
+                <div class="chart-option" id="optionScatterPlot">Scatter Plot</div>
+                <div class="chart-option" id="option-groupBarChart">Grouped Bar Chart</div>
+                <div class="chart-option" id="option-beeswarm">Bee Swarm Chart</div>
               </div>
+              <script src="./src/charts/visuals.js"></script>
             </div>
 
             <div id="editDetailsPanel" style="display: none">
@@ -116,7 +119,9 @@
               </div>
             </div>
 
-            <div class="preview-area"></div>
+            <div class="preview-area">
+              <div id="bog-body-chart"></div>
+            </div>
           </div>
         </div>
       </div>
