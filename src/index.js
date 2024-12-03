@@ -16,10 +16,91 @@ document.addEventListener("DOMContentLoaded", function () {
     ".menu-item.sub-menu-item"
   ); // "example.csv" section
 
+<<<<<<< HEAD
+=======
+  document.getElementById("optionBarChart").addEventListener("click", () => {
+    console.log("barchart clicked");
+    barChart();
+  });
+
+  document.getElementById("optionLineChart").addEventListener("click", () => {
+    console.log("linechart clicked");
+    lineChart();
+  });
+
+  document.getElementById("optionScatterPlot").addEventListener("click", () => {
+    console.log("scatter plot clicked");
+    scatterPlot();
+  });
+  // Cleaning
+  // document
+  //   .getElementById("removeDuplicatesBtn")
+  //   .addEventListener("click", async () => {
+  //     try {
+  //       const response = await fetch("http://127.0.0.1:5000/clean-duplicates", {
+  //         method: "POST",
+  //       });
+  //       const result = await response.json();
+
+  //       if (response.ok) {
+  //         alert(result.message); // Notify success
+  //       } else {
+  //         alert(`Error: ${result.error}`);
+  //       }
+  //     } catch (error) {
+  //       console.error("Error removing duplicates:", error);
+  //       alert("Failed to remove duplicates. Please try again later.");
+  //     }
+  //   });
+
+  // document
+  //   .getElementById("fillMissingValuesBtn")
+  //   .addEventListener("click", async () => {
+  //     try {
+  //       const response = await fetch("http://127.0.0.1:5000/fill-missing", {
+  //         method: "POST",
+  //       });
+  //       const result = await response.json();
+
+  //       if (response.ok) {
+  //         alert(result.message); // Notify success
+  //       } else {
+  //         alert(`Error: ${result.error}`);
+  //       }
+  //     } catch (error) {
+  //       console.error("Error filling missing values:", error);
+  //       alert("Failed to fill missing values. Please try again later.");
+  //     }
+  //   });
+
+  // document
+  //   .getElementById("dropNaNRowsBtn")
+  //   .addEventListener("click", async () => {
+  //     try {
+  //       const response = await fetch("http://127.0.0.1:5000/drop-nan-rows", {
+  //         method: "POST",
+  //       });
+  //       const result = await response.json();
+
+  //       if (response.ok) {
+  //         alert(result.message);
+  //       } else {
+  //         alert(`Error: ${result.error}`);
+  //       }
+  //     } catch (error) {
+  //       console.error("Error dropping NaN rows:", error);
+  //       alert(
+  //         "Failed to drop rows with all NaN values. Please try again later."
+  //       );
+  //     }
+  //   });
+
+>>>>>>> cb0a17e605bb6d05127f45f4dac5b8dc84b53852
   //File stuff
   // for displaying files
   async function fetchFiles() {
     try {
+<<<<<<< HEAD
       const response = await fetch('http://127.0.0.1:5000/files');
       const files = await response.json();
       console.log(files); // Print the files in the console 
@@ -36,6 +117,24 @@ document.addEventListener("DOMContentLoaded", function () {
       })
     } catch (error) {
       console.error('Error fetching files:', error);
+=======
+      const response = await fetch("http://127.0.0.1:5000/files");
+      const files = await response.json();
+      console.log(files); // Print the files in the console
+
+      const fileList = document.getElementById("file-list");
+      fileList.innerHTML = "";
+
+      files.forEach((file) => {
+        const subMenuItem = document.createElement("div");
+        subMenuItem.className = "menu-item sub-menu-container";
+        subMenuItem.innerHTML = `<span> ${file} </span>`;
+        subMenuItem.addEventListener("click", () => displayFileContent(file));
+        fileList.appendChild(subMenuItem);
+      });
+    } catch (error) {
+      console.error("Error fetching files:", error);
+>>>>>>> cb0a17e605bb6d05127f45f4dac5b8dc84b53852
     }
   }
 
@@ -46,13 +145,18 @@ document.addEventListener("DOMContentLoaded", function () {
       const text = await response.text();
       displayCSV(text);
     } catch (error) {
+<<<<<<< HEAD
       console.error('Error fetching file content:', error);
+=======
+      console.error("Error fetching file content:", error);
+>>>>>>> cb0a17e605bb6d05127f45f4dac5b8dc84b53852
     }
   }
 
   fetchFiles();
 
   function displayCSV(data) {
+<<<<<<< HEAD
     const rows = data.split('\n');
     const table = document.createElement('table');
 
@@ -62,6 +166,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
       cells.forEach(cell => {
         const cellElement = document.createElement(index === 0 ? 'th' : 'td');
+=======
+    const rows = data.split("\n");
+    const table = document.createElement("table");
+
+    rows.slice(0, 40).forEach((row, index) => {
+      // Show only the first 5 rows
+      const tr = document.createElement("tr");
+      const cells = row.split(",");
+
+      cells.forEach((cell) => {
+        const cellElement = document.createElement(index === 0 ? "th" : "td");
+>>>>>>> cb0a17e605bb6d05127f45f4dac5b8dc84b53852
         cellElement.textContent = cell;
         tr.appendChild(cellElement);
       });
@@ -69,6 +185,7 @@ document.addEventListener("DOMContentLoaded", function () {
       table.appendChild(tr);
     });
 
+<<<<<<< HEAD
     const tableContainer = document.createElement('div');
     tableContainer.className = 'table-container';
     tableContainer.appendChild(table);
@@ -79,6 +196,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
+=======
+    const tableContainer = document.createElement("div");
+    tableContainer.className = "table-container";
+    tableContainer.appendChild(table);
+
+    document.getElementById("fileList").innerHTML = "";
+    document.getElementById("fileList").appendChild(tableContainer);
+  }
+
+>>>>>>> cb0a17e605bb6d05127f45f4dac5b8dc84b53852
   let currentView = "upload";
   let uploadedFiles = []; // Track uploaded files
 
@@ -202,8 +329,15 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
 
+<<<<<<< HEAD
     //generateVisual.disabled = uploadedFiles.length === 0;
     //generateVisual.style.opacity = uploadedFiles.length > 0 ? "1" : "0.5";
+=======
+    generateVisual.disabled = uploadedFiles.length === 0;
+    generateVisual.style.opacity = uploadedFiles.length > 0 ? "1" : "0.5";
+    generateVisual.disabled = uploadedFiles.length === 0;
+    generateVisual.style.opacity = uploadedFiles.length > 0 ? "1" : "0.5";
+>>>>>>> cb0a17e605bb6d05127f45f4dac5b8dc84b53852
   }
 
   backButton.addEventListener("click", () => {
@@ -213,7 +347,14 @@ document.addEventListener("DOMContentLoaded", function () {
   generateVisual.addEventListener("click", () => {
     //if (uploadedFiles.length > 0) {
       switchView("chart");
+<<<<<<< HEAD
    // }
+=======
+    }
+    if (uploadedFiles.length > 0) {
+      switchView("chart");
+    }
+>>>>>>> cb0a17e605bb6d05127f45f4dac5b8dc84b53852
   });
 
   tabs.forEach((tab) => {
