@@ -47,3 +47,23 @@ document
       }
     }
   });
+
+document
+  .getElementById("fillMissingValuesBtn")
+  .addEventListener("click", async () => {
+    try {
+      const response = await fetch("http://127.0.0.1:5000/fill-missing", {
+        method: "POST",
+      });
+      const result = await response.json();
+
+      if (response.ok) {
+        alert(result.message); // Notify success
+      } else {
+        alert(`Error: ${result.error}`);
+      }
+    } catch (error) {
+      console.error("Error filling missing values:", error);
+      alert("Failed to fill missing values. Please try again later.");
+    }
+  });

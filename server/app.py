@@ -51,7 +51,6 @@ def download_file(filename):
 @app.route('/clean-duplicates', methods=['POST'])
 def clean_duplicates():
     try:
-      
 # Load the CSV file
         df = pd.read_csv('./uploads/student_data.csv')
         df.drop_duplicates(inplace = True)
@@ -70,16 +69,16 @@ def clean_duplicates():
 @app.route('/fill-missing', methods=['POST'])
 def fill_missing():
     try:
-        filepath = os.path.join(UPLOAD_FOLDER, 'student_data.csv')  # Static reference
-        if not os.path.exists(filepath):
-            return jsonify({'error': 'File not found'}), 404
+# Load CSV and fill missing values
+        df = pd.read_csv('./uploads/student_data.csv')
+        df.dropna(inplace = True)
+        print(df.to_string())
 
-        # Load CSV and fill missing values
-        df = pd.read_csv(filepath)
-        df.fillna('N/A', inplace=True)
-        df.to_csv(filepath, index=False)
-
-        return jsonify({'message': 'Missing values filled successfully!'}), 200
+# Save the cleaned file
+        cleaned_filepath = './uploads/student_data_cleaned.csv'
+        df.to_csv(cleaned_filepath, index=False)
+        
+        return jsonify({'message': 'Missing values revomed successfully!'}), 200
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
