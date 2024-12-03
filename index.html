@@ -10,6 +10,14 @@
   <script src="src/displayCSV.js" defer></script>
   <script src="src/upload.js" defer></script>
   <script src="src/remove.js" defer></script>
+  <script src="src//charts/barchart.js" defer></script>
+  <script src="src//charts/piechart.js" defer></script>
+  <script src="src//charts/beeswarmchart.js" defer></script>
+  <script src="src//charts/groupedbarchart.js" defer></script>
+  <script src="src//charts/linegraph.js" defer></script>
+  <script src="src//charts/scatter.js" defer></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
 </head>
 
 <body>
@@ -90,17 +98,37 @@
               <button class="tab active">CHART TYPE</button>
               <button class="tab">EDIT DETAILS</button>
             </div>
-
+          
             <div id="chartTypePanel">
               <div class="chart-grid">
-                <div class="chart-option" id="optionBarChart">Bar Chart</div>
-                <div class="chart-option" id="optionLineChart">Line Chart</div>
-                <div class="chart-option" id="optionScatterPlot">Scatter Plot</div>
-                <div class="chart-option" id="option-groupBarChart">Grouped Bar Chart</div>
-                <div class="chart-option" id="option-beeswarm">Bee Swarm Chart</div>
+                <div class="chart-option">
+                  <h3>Bar Chart</h3>
+                  <canvas id="BarChart" style="width:100%;max-width:600px"></canvas>
+                </div>
+                <div class="chart-option">
+                  <h3>Pie Chart</h3>
+                  <canvas id="PieChart" style="width:100%;max-width:600px"></canvas>
+                </div>
+                <div class="chart-option">
+                  <h3>Scatter Plot</h3>
+                  <canvas id="ScatterPlot" style="width:100%;max-width:600px"></canvas>
+                </div>
+                <div class="chart-option">
+                  <h3>Grouped Bar Chart</h3>
+                  <canvas id="GroupBarChart" style="width:100%;max-width:600px"></canvas>
+                </div>
+                <div class="chart-option">
+                  <h3>Bee Swarm Chart</h3>
+                  <canvas id="BeeSwarm" style="width:100%;max-width:600px"></canvas>
+                </div>
+                <div class="chart-option">
+                  <h3>Line Graph</h3>
+                  <canvas id="LineGraph" style="width:100%;max-width:600px"></canvas>
+                </div>
               </div>
-              <script src="./src/charts/visuals.js"></script>
             </div>
+          </div>
+            
 
             <div id="editDetailsPanel" style="display: none">
               <div class="form-group">
