@@ -14,7 +14,7 @@ gp,f,15,u,gt3,t,2,1,services,other,reputation,father
 gp,m,15,u,le3,t,4,4,health,services,course,father
 gp,m,15,u,gt3,t,4,3,teacher,other,course,mother
 gp,m,15,u,gt3,a,2,2,other,other,home,other
-gp,f,16,u,gt3,t,4,4,health,other,home,mother
+gp,f,16,u,gt3,t,,,,other,home,mother
 gp,f,16,u,gt3,t,4,4,services,services,reputation,mother
 gp,f,16,u,gt3,t,3,3,other,other,reputation,mother
 gp,m,17,u,gt3,t,3,2,services,services,course,mother
@@ -31,4 +31,4 @@ gp,m,16,u,le3,a,3,4,services,other,home,mother
 gp,m,16,u,le3,a,3,4,services,other,home,mother
 gp,m,16,u,le3,a,3,4,services,other,home,mother
 gp,m,16,u,le3,a,3,4,services,other,home,mother
-gp,f,6,u,le3,a,3,4,services,other,home,mother
+gp,f,,u,le3,a,3,4,services,other,home,mother
