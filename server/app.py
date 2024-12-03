@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, send_from_directory
 from flask_cors import CORS
 import os
 import pandas as pd
@@ -34,9 +34,17 @@ def upload_file():
         file.save(filepath)
         return jsonify({'message': 'File uploaded successfully', 'filename': filename}), 200
 
+@app.route('/files', methods=['GET']) 
+def get_files(): 
+    try: 
+        files = os.listdir(UPLOAD_FOLDER) 
+        return jsonify(files) 
+    except Exception as e: 
+        return str(e), 500
 
-#    
-
+@app.route('/uploads/<path:filename>', methods=['GET']) 
+def download_file(filename): 
+    return send_from_directory(UPLOAD_FOLDER, filename)
 
 # Cleaning operations
 # Remove Duplicates

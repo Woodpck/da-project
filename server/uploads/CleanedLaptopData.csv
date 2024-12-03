@@ -1,0 +1,1242 @@
+Company,TypeName,Inches,ScreenResolution,Cpu,Ram,Memory,Gpu,OpSys,Weight,Price
+acer,notebook,15 3/5,1366x768,amd a9-series 9420 3ghz,4gb,500gb hdd,amd radeon r5,windows 10,2.1kg,21312
+acer,ultrabook,14,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.6kg,41025.6
+acer,notebook,15 3/5,1366x768,intel core i3 7130u 2.7ghz,4gb,1tb hdd,intel hd graphics 620,linux,2.1kg,19553.76
+acer,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,4gb,256gb ssd,intel uhd graphics 620,windows 10,2.2kg,36336.96
+acer,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,nvidia geforce mx150,windows 10,2.2kg,44808.48
+acer,notebook,15 3/5,1366x768,intel core i3 7100u 2.4ghz,4gb,1tb hdd,intel hd graphics 620,windows 10,2.4kg,20459.52
+acer,notebook,14,1366x768,intel core i3 6006u 2ghz,8gb,1tb hdd,intel hd graphics 520,windows 10,2.1kg,20725.92
+acer,notebook,15 3/5,full hd 1920x1080,intel core i3 7130u 2.7ghz,4gb,1tb hdd,nvidia geforce mx130,windows 10,2.2kg,28238.4
+acer,notebook,15 3/5,1366x768,amd a9-series 9420 3ghz,4gb,1tb hdd,amd radeon r5,windows 10,2.1kg,21045.6
+acer,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,2gb,1tb hdd,nvidia geforce mx150,windows 10,2.2kg,36709.92
+acer,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.5kg,45128.16
+acer,notebook,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i3 7100u 2.4ghz,6gb,1tb hdd,intel hd graphics 620,windows 10,2.1kg,25521.12
+acer,notebook,15 3/5,1366x768,amd a9-series 9420 3ghz,4gb,256gb ssd,amd radeon r5,windows 10,2.1kg,24029.28
+acer,ultrabook,14,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.6kg,47099.52
+acer,notebook,15 3/5,full hd 1920x1080,intel core i3 7130u 2.7ghz,4gb,256gb ssd,nvidia geforce mx130,windows 10,7.2kg,30476.16
+acer,notebook,17 1/3,ips panel full hd 1920x1080,intel core i3 7130u 2.7ghz,4gb,1tb hdd,nvidia geforce mx130,windows 10,3kg,34898.4
+acer,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,1tb hdd,intel hd graphics 520,windows 10,2.1kg,23816.16
+acer,notebook,17 1/3,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,4gb,256gb ssd,nvidia geforce mx150,windows 10,3kg,42890.4
+acer,notebook,15 3/5,1366x768,intel celeron dual core n3350 1.1ghz,4gb,1tb hdd,intel hd graphics 500,windows 10,2.1kg,18541.44
+acer,notebook,15 3/5,1366x768,intel pentium quad core n4200 1.1ghz,4gb,1tb hdd,intel hd graphics 505,windows 10,2.1kg,19367.8128
+acer,notebook,17 1/3,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,nvidia geforce mx150,windows 10,3kg,45501.12
+acer,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,2.1kg,23922.72
+acer,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core i5 7y54 1.2ghz,8gb,256gb ssd,intel hd graphics 615,windows 10,1.12kg,52693.92
+acer,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,nvidia geforce 940mx,windows 10,2.23kg,39533.76
+acer,notebook,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1tb hdd,nvidia geforce gtx 1050,linux,2.4kg,41505.12
+acer,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,nvidia geforce 940mx,windows 10,2.2kg,44328.96
+acer,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.6kg,36709.92
+acer,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,1tb hdd,intel hd graphics 520,linux,2.1kg,20779.2
+acer,gaming,15 3/5,ips panel full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,256gb ssd,nvidia geforce gtx 1050,windows 10,2.5kg,45074.88
+acer,notebook,17 1/3,ips panel full hd 1920x1080,intel core i3 7130u 2.7ghz,4gb,256gb ssd,nvidia geforce mx130,windows 10,3kg,37402.56
+acer,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,1tb hdd,nvidia geforce mx130,windows 10,2.2kg,39693.6
+acer,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,nvidia geforce mx150,windows 10,3kg,50669.28
+acer,notebook,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,12gb,1tb hdd,intel hd graphics 620,windows 10,2.15kg,35111.52
+acer,notebook,15 3/5,1366x768,intel celeron dual core 3205u 1.5ghz,2gb,16gb ssd,intel hd graphics,chrome os,2.19kg,10602.72
+acer,notebook,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,nvidia geforce gtx 1050 ti,linux,2.5kg,52161.12
+acer,notebook,15 3/5,full hd 1920x1080,amd a8-series 7410 2.2ghz,8gb,256gb ssd,amd radeon r5,windows 10,2.23kg,24988.32
+acer,notebook,11 3/5,1366x768,intel pentium quad core n3710 1.6ghz,4gb,128gb flash storage,intel hd graphics 405,windows 10,1.4kg,25840.8
+acer,notebook,15 3/5,1366x768,amd a12-series 9720p 2.7ghz,8gb,256gb ssd,amd radeon rx 540,windows 10,2.2kg,35111.52
+acer,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,6gb,1tb hdd,intel hd graphics 620,windows 10,8.23kg,29250.72
+acer,notebook,15 3/5,1366x768,amd a9-series 9420 3ghz,4gb,128gb ssd,amd radeon r5,windows 10,2.1kg,22697.28
+acer,notebook,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1tb hdd,nvidia geforce gtx 1050,linux,2.4kg,45074.88
+acer,notebook,15 3/5,ips panel 1366x768,intel core i5 8250u 1.6ghz,12gb,1tb hdd,nvidia geforce mx130,windows 10,2.2kg,36975.7872
+acer,notebook,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,nvidia geforce gtx 1050,linux,2.5kg,46833.12
+acer,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.6kg,42038.4528
+acer,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,linux,2.4kg,23539.104
+acer,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,1tb hdd,nvidia geforce 940mx,windows 10,2.23kg,28984.32
+acer,netbook,11 3/5,1366x768,intel celeron dual core n3060 1.6ghz,4gb,128gb ssd,intel hd graphics 400,windows 10,1.4kg,23176.8
+acer,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,500gb hdd,nvidia geforce gtx 940mx,windows 10,2.2kg,24988.32
+acer,notebook,15 3/5,1366x768,amd a10-series 9620p 2.5ghz,8gb,1tb hdd,amd radeon rx 540,windows 10,2.2kg,30849.12
+acer,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,4gb,1tb hdd,nvidia geforce mx150,windows 10,2.2kg,32660.64
+acer,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,4gb,500gb hdd,nvidia geforce 940mx,windows 10,2.2kg,34045.92
+acer,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,1tb hdd,nvidia geforce gtx 1050,linux,2.4kg,42517.44
+acer,2 in 1 convertible,11 3/5,ips panel full hd / touchscreen 1920x1080,intel celeron dual core n3350 2.0ghz,4gb,32gb flash storage,intel hd graphics 500,windows 10,1.25kg,18594.72
+acer,notebook,14,full hd 1920x1080,intel celeron quad core n3450 1.1ghz,4gb,32gb flash storage,intel hd graphics 500,windows 10,1.6kg,17529.12
+acer,notebook,14,1366x768,intel pentium quad core n3710 1.6ghz,4gb,128gb flash storage,intel hd graphics 405,windows 10,1.6kg,18594.72
+acer,2 in 1 convertible,11 3/5,ips panel touchscreen 1366x768,intel celeron quad core n3160 1.6ghz,4gb,32gb flash storage,intel hd graphics 400,chrome os,1.25kg,20193.12
+acer,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.4kg,23976
+acer,ultrabook,14,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel graphics 620,windows 10,1.8kg,48964.32
+acer,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,1tb hdd,nvidia geforce gtx 1050,linux,2.4kg,37775.52
+acer,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,128gb ssd,intel hd graphics 520,linux,2.1kg,21951.36
+acer,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,16gb,256gb ssd,nvidia geforce gtx 1050 ti,windows 10,2.5kg,69210.72
+acer,notebook,14,1366x768,intel celeron dual core 3855u 1.6ghz,4gb,32gb flash storage,intel hd graphics 510,chrome os,1.45kg,19980
+acer,netbook,11 3/5,1366x768,intel celeron dual core n3050 1.6ghz,4gb,32gb flash storage,intel hd graphics,windows 10,1.4kg,14332.32
+acer,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i5 8250u 1.6ghz,1gb,256gb ssd,intel uhd graphics 620,windows 10,1.6kg,53226.72
+acer,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,4.2kg,103096.8
+acer,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.4kg,29783.52
+acer,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.4kg,21887.424
+acer,notebook,14,1366x768,intel celeron dual core n3060 1.6ghz,2gb,32gb flash storage,intel hd graphics 400,chrome os,1.68kg,17582.4
+acer,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,2.1kg,31914.72
+acer,notebook,13 1/3,1366x768,intel core i5 6200u 2.3ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,1.6kg,34898.4
+acer,notebook,15 3/5,1366x768,intel pentium quad core n4200 1.1ghz,4gb,1tb hdd,intel hd graphics 505,linux,2.1kg,15877.44
+acer,notebook,14,ips panel full hd 1920x1080,intel core i3 7100u 2.4ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,1.8kg,33886.08
+acer,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,4.2kg,122490.72
+acer,netbook,11 3/5,ips panel 1366x768,intel celeron dual core n3060 1.6ghz,4gb,32gb flash storage,intel hd graphics 400,chrome os,1.35kg,18914.4
+acer,notebook,14,ips panel full hd 1920x1080,intel core i3 7100u 2.4ghz,8gb,128gb ssd,intel hd graphics 620,windows 10,1.5kg,32980.32
+acer,notebook,14,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.56kg,48058.56
+acer,netbook,11 3/5,ips panel 1366x768,intel celeron dual core n3060 1.6ghz,4gb,32gb flash storage,intel hd graphics 400,chrome os,1.25kg,15824.16
+acer,notebook,15 3/5,ips panel full hd 1920x1080,intel celeron dual core 3205u 1.5ghz,4gb,16gb flash storage,intel hd graphics,chrome os,2.20kg,19127.52
+acer,notebook,15 3/5,full hd 1920x1080,intel core i3 7100u 2.4ghz,4gb,1tb hdd,intel hd graphics 620,windows 10,2.4kg,26586.72
+acer,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.23kg,32980.32
+acer,notebook,14,1366x768,intel celeron dual core n3060 1.6ghz,4gb,32gb flash storage,intel hd graphics 400,chrome os,1.68kg,18594.72
+acer,2 in 1 convertible,11 3/5,ips panel touchscreen 1366x768,intel celeron dual core n3060 1.6ghz,4gb,32gb flash storage,intel hd graphics 400,chrome os,1.25kg,20725.92
+acer,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,12gb,128gb ssd +  1tb hdd,nvidia geforce gtx 950m,windows 10,2.4kg,53759.52
+acer,notebook,15 3/5,1366x768,intel pentium quad core n4200 1.1ghz,4gb,500gb hdd,intel hd graphics 505,windows 10,2.4kg,20246.4
+acer,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.7kg,67132.8
+acer,notebook,15 3/5,1366x768,amd a9-series 9420 3ghz,6gb,1tb hdd,amd radeon r5,windows 10,2.1kg,21791.52
+acer,notebook,15 3/5,1366x768,amd a8-series 7410 2.2ghz,8gb,1tb hdd,amd radeon r5,windows 10,2.4kg,23922.72
+acer,notebook,15 3/5,1366x768,amd a8-series 7410 2.2ghz,4gb,500gb hdd,amd radeon r5,windows 10,2.4kg,20619.36
+acer,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd +  1tb hdd,nvidia geforce gtx 950m,windows 10,2.4kg,42570.72
+acer,notebook,15 3/5,1366x768,intel celeron dual core 3205u 1.5ghz,4gb,16gb ssd,intel hd graphics,chrome os,2.20kg,11135.52
+acer,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,1tb hdd,nvidia geforce 940mx,windows 10,2.23kg,32820.48
+acer,notebook,15 3/5,1366x768,intel celeron dual core n3350 2ghz,4gb,500gb hdd,intel hd graphics 500,windows 10,2.1kg,17742.24
+acer,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,256gb ssd,nvidia geforce 940mx,windows 10,2.23kg,36816.48
+acer,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.2kg,138474.72
+acer,notebook,15 3/5,1366x768,intel celeron dual core n3350 2ghz,4gb,1tb hdd,intel hd graphics 500,linux,2.1kg,14492.16
+acer,notebook,17 1/3,1600x900,intel core i3 6006u 2.0ghz,8gb,1tb hdd,nvidia geforce 940mx,windows 10,3.3kg,33513.12
+acer,netbook,11 3/5,1366x768,intel celeron dual core 3205u 1.5ghz,2gb,32gb ssd,intel hd graphics,chrome os,1.3kg,9270.72
+acer,notebook,17 1/3,1600x900,intel core i3 6006u 2ghz,4gb,1tb hdd,nvidia geforce 940mx,windows 10,3.3kg,31861.44
+acer,2 in 1 convertible,14,ips panel full hd / touchscreen 1920x1080,intel core i7 7y75 1.3ghz,8gb,256gb ssd,intel hd graphics 615,windows 10,1.2kg,61218.72
+acer,notebook,15 3/5,1366x768,intel core i3 6006u 2.0ghz,4gb,500gb hdd,intel hd graphics 520,linux,2.4kg,19276.704
+acer,notebook,15 3/5,1366x768,intel celeron dual core n3060 1.6ghz,4gb,500gb hdd,intel hd graphics 400,linux,2.4kg,15397.92
+apple,ultrabook,13 1/3,ips panel retina display 2560x1600,intel core i5 2.3ghz,8gb,128gb ssd,intel iris plus graphics 640,macos,1.37kg,71378.6832
+apple,ultrabook,13 1/3,1440x900,intel core i5 1.8ghz,8gb,128gb flash storage,intel hd graphics 6000,macos,1.34kg,47895.5232
+apple,ultrabook,15 2/5,ips panel retina display 2880x1800,intel core i7 2.7ghz,16gb,512gb ssd,amd radeon pro 455,macos,1.83kg,135195.336
+apple,ultrabook,13 1/3,ips panel retina display 2560x1600,intel core i5 3.1ghz,8gb,256gb ssd,intel iris plus graphics 650,macos,1.37kg,96095.808
+apple,ultrabook,15 2/5,ips panel retina display 2880x1800,intel core i7 2.2ghz,16gb,256gb flash storage,intel iris pro graphics,mac os x,2.04kg,114017.6016
+apple,ultrabook,13 1/3,1440x900,intel core i5 1.8ghz,8gb,256gb flash storage,intel hd graphics 6000,macos,1.34kg,61735.536
+apple,ultrabook,15 2/5,ips panel retina display 2880x1800,intel core i7 2.8ghz,16gb,256gb ssd,amd radeon pro 555,macos,1.83kg,130001.6016
+apple,ultrabook,12,ips panel retina display 2304x1440,intel core m m3 1.2ghz,8gb,256gb ssd,intel hd graphics 615,macos,0.92kg,67260.672
+apple,ultrabook,13 1/3,ips panel retina display 2560x1600,intel core i5 2.3ghz,8gb,256gb ssd,intel iris plus graphics 640,macos,1.37kg,80908.344
+apple,ultrabook,15 2/5,ips panel retina display 2880x1800,intel core i7 2.9ghz,16gb,512gb ssd,amd radeon pro 560,macos,1.83kg,152274.24
+apple,ultrabook,13 1/3,1440x900,intel core i5 1.6ghz,8gb,128gb flash storage,intel hd graphics 6000,mac os x,1.35kg,58554.72
+apple,ultrabook,13 1/3,1440x900,intel core i5 1.6ghz,8gb,256gb flash storage,intel hd graphics 6000,mac os x,1.35kg,53173.44
+apple,ultrabook,13 1/3,ips panel retina display 2560x1600,intel core i5 2.0ghz,8gb,256gb ssd,intel iris graphics 540,macos,1.37kg,75604.32
+apple,ultrabook,12,ips panel retina display 2304x1440,intel core i5 1.3ghz,8gb,512gb ssd,intel hd graphics 615,macos,0.92kg,80452.8
+apple,ultrabook,13 1/3,ips panel retina display 2560x1600,intel core i5 3.1ghz,8gb,512gb ssd,intel iris plus graphics 650,macos,1.37kg,108691.2
+apple,ultrabook,13 1/3,ips panel retina display 2560x1600,intel core i5 2.9ghz,8gb,512gb ssd,intel iris graphics 550,macos,1.37kg,104370.192
+apple,ultrabook,12,ips panel retina display 2304x1440,intel core m 1.2ghz,8gb,512gb flash storage,intel hd graphics 5300,mac os x,0.920kg,62071.2
+apple,ultrabook,12,ips panel retina display 2304x1440,intel core m 1.1ghz,8gb,256gb flash storage,intel hd graphics 515,mac os x,0.920kg,69264
+apple,ultrabook,12,ips panel retina display 2304x1440,intel core m 1.1ghz,8gb,256gb flash storage,intel hd graphics 5300,mac os x,0.920kg,61964.64
+apple,ultrabook,12,ips panel retina display 2304x1440,intel core m 1.2ghz,8gb,512gb flash storage,intel hd graphics 515,mac os x,0.920kg,68145.12
+apple,ultrabook,11 3/5,1366x768,intel core i5 1.6ghz,4gb,256gb flash storage,intel hd graphics 6000,mac os x,1.08kg,51095.52
+asus,ultrabook,14,full hd 1920x1080,intel core i7 8550u 1.8ghz,16gb,512gb ssd,nvidia geforce mx150,windows 10,1.3kg,79653.6
+asus,notebook,14,1366x768,amd e-series e2-6110 1.5ghz,2gb,32gb flash storage,amd radeon r2,windows 10,1.65kg,10602.72
+asus,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,1tb hdd,intel hd graphics 620,linux,2kg,20725.92
+asus,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,1tb hdd,nvidia geforce 940mx,linux,2.3kg,27864.9072
+asus,gaming,17 1/3,full hd 1920x1080,amd ryzen 1700 3ghz,8gb,256gb ssd +  1tb hdd,amd radeon rx 580,windows 10,3.2kg,69210.72
+asus,notebook,17 1/3,1366x768,intel pentium quad core n4200 1.1ghz,4gb,1tb hdd,nvidia geforce 920mx,windows 10,2.8kg,24828.48
+asus,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,2kg,31232.2032
+asus,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,256gb ssd,intel hd graphics 520,linux,2kg,22111.2
+asus,notebook,14,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.4kg,50136.48
+asus,ultrabook,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,512gb ssd,nvidia geforce gtx 1050 ti,windows 10,1.8kg,105654.24
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,12gb,1tb hdd,nvidia geforce gtx 1050 ti,linux,3kg,50562.72
+asus,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1tb hdd,nvidia geforce gtx 1050,windows 10,2.2kg,50562.72
+asus,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.2kg,77202.72
+asus,gaming,15 3/5,full hd 1920x1080,amd fx 9830p 3ghz,8gb,1tb hdd,amd radeon rx 560,windows 10,2.45kg,37242.72
+asus,ultrabook,14,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.25kg,55890.72
+asus,notebook,15 3/5,full hd 1920x1080,intel core i3 7100u 2.4ghz,6gb,256gb ssd,nvidia geforce 920m,windows 10,2kg,30742.56
+asus,ultrabook,14,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,nvidia geforce 940mx,windows 10,1.3kg,63563.04
+asus,ultrabook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce mx150,windows 10,1.5kg,67239.36
+asus,notebook,17 1/3,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,1tb hdd,nvidia geforce 920mx,windows 10,2kg,30049.92
+asus,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,nvidia geforce 940mx,windows 10,1.7kg,59567.04
+asus,notebook,14,1366x768,amd e-series 6110 1.5ghz,4gb,64gb ssd,amd radeon r2,windows 10 s,1.65kg,14811.3072
+asus,gaming,17 1/3,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,3kg,49976.64
+asus,ultrabook,14,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.25kg,58554.72
+asus,notebook,15 3/5,full hd 1920x1080,intel celeron dual core n3350 1.1ghz,4gb,1tb hdd,intel hd graphics 500,windows 10,2kg,18328.32
+asus,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.1kg,70063.2
+asus,notebook,15 3/5,1366x768,amd a9-series 9420 3ghz,4gb,1tb hdd,amd radeon r5 m420,windows 10,2.03kg,21471.84
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.9kg,74964.96
+asus,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,nvidia geforce 920mx,windows 10,2kg,40972.32
+asus,notebook,17 1/3,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd +  500gb hdd,nvidia geforce gtx 950m,windows 10,2.69kg,47472.48
+asus,notebook,15 3/5,1366x768,intel core i3 7100u 2.4ghz,4gb,1tb hdd,intel hd graphics 620,windows 10,2.37kg,21258.1872
+asus,notebook,15 3/5,full hd 1920x1080,amd a10-series a10-9620p 2.5ghz,4gb,128gb ssd +  1tb hdd,amd radeon r5 m430,windows 10,2.2kg,30636
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7820hk 2.9ghz,32gb,512gb ssd +  1tb hdd,nvidia geforce gtx 1080,windows 10,4.7kg,207259.2
+asus,notebook,17 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce 150mx,windows 10,2.1kg,61005.6
+asus,notebook,17 1/3,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 950m,no os,2.69kg,47365.92
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7820hk 2.9ghz,16gb,256gb ssd,nvidia geforce gtx 1080,windows 10,3.6kg,159786.72
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 980m,windows 10,4.3kg,95850.72
+asus,notebook,15 3/5,1366x768,amd a9-series 9420 3ghz,4gb,1tb hdd,amd radeon r5 m420,windows 10,1.68kg,24988.32
+asus,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i7 8550u 1.8ghz,8gb,512gb ssd +  512gb ssd,intel uhd graphics 620,windows 10,4.1kg,79866.72
+asus,gaming,17 1/3,full hd 1920x1080,amd ryzen 1700 3ghz,16gb,256gb ssd +  1tb hdd,amd radeon rx 580,windows 10,3.2kg,82530.72
+asus,ultrabook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,nvidia geforce 940mx,windows 10,1.7kg,52054.56
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1tb hdd,nvidia geforce gtx 1050,windows 10,3kg,63243.36
+asus,ultrabook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,nvidia geforce 940mx,windows 10,1.63kg,78215.04
+asus,notebook,14,1366x768,intel core i3 7100u 2.4ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,1.3kg,27119.52
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,2.9kg,113060.16
+asus,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.5kg,67399.2
+asus,2 in 1 convertible,11 3/5,touchscreen 1366x768,intel celeron dual core n3350 1.1ghz,2gb,32gb flash storage,intel hd graphics 500,windows 10,1.1kg,14652
+asus,notebook,14,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2kg,58288.32
+asus,ultrabook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,nvidia geforce 940mx,windows 10,1.7kg,55938.672
+asus,notebook,14,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd +  1tb hdd,intel hd graphics 620,windows 10,2kg,71075.52
+asus,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,nvidia geforce gtx 1050,windows 10,2.5kg,53226.72
+asus,notebook,15 3/5,1366x768,intel celeron dual core n3350 1.1ghz,4gb,1tb hdd,intel hd graphics 500,linux,2kg,14651.4672
+asus,2 in 1 convertible,11 3/5,touchscreen 1366x768,intel celeron dual core n3350 1.1ghz,4gb,32gb flash storage,intel hd graphics 500,windows 10,1.5kg,19980
+asus,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2kg,50349.6
+asus,2 in 1 convertible,15 3/5,full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,12gb,512gb ssd +  2tb hdd,nvidia geforce gt 940mx,windows 10,2.26kg,58554.72
+asus,gaming,17 1/3,ips panel full hd 1920x1080,amd ryzen 1700 3ghz,16gb,256gb ssd +  1tb hdd,amd radeon rx 580,windows 10,3.25kg,117162.72
+asus,notebook,14,1366x768,intel celeron dual core n3350 1.1ghz,4gb,32gb flash storage,intel hd graphics 500,windows 10,1.5kg,15238.08
+asus,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.3kg,88178.4
+asus,ultrabook,13 1/3,full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.1kg,93181.392
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1tb hdd,nvidia geforce gtx 1050,windows 10,3kg,55357.92
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,3kg,84768.48
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.9kg,81465.12
+asus,ultrabook,14,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.10kg,99793.44
+asus,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.27kg,49443.84
+asus,notebook,35 3/5,full hd 1920x1080,intel core i3 7100u 2.4ghz,8gb,1tb hdd,nvidia geforce 940mx,linux,2.3kg,31808.16
+asus,gaming,17 1/3,full hd 1920x1080,amd ryzen 1600 3.2ghz,8gb,256gb ssd +  1tb hdd,amd radeon rx 580,windows 10,3.2kg,90309.6
+asus,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,linux,2kg,29783.52
+asus,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,1tb hdd,intel hd graphics 620,windows 10,2.37kg,39906.72
+asus,notebook,15 3/5,1366x768,intel pentium quad core n4200 1.1ghz,4gb,500gb hdd,intel hd graphics 500,windows 10,2kg,16197.12
+asus,notebook,15 3/5,ips panel 4k ultra hd 3840x2160,intel core i7 6700hq 2.6ghz,12gb,128gb ssd +  1tb hdd,intel hd graphics 530,windows 10,2.06kg,69210.72
+asus,ultrabook,12 1/2,full hd 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,0.91kg,103896
+asus,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,1.99kg,71928
+asus,gaming,17 1/3,ips panel full hd / touchscreen 1920x1080,intel core i7 6700hq 2.6ghz,24gb,256gb ssd +  1tb hdd,nvidia geforce gtx 965m,windows 10,4.33kg,67612.32
+asus,netbook,11 3/5,1366x768,intel celeron dual core n3350 1.1ghz,4gb,64gb flash storage,intel hd graphics 500,windows 10 s,1.2kg,18115.2
+asus,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd +  1tb hdd,intel hd graphics 620,windows 10,2kg,65214.72
+asus,netbook,11 3/5,1366x768,intel celeron dual core n3350 1.1ghz,2gb,32gb flash storage,intel hd graphics 500,windows 10,1.1kg,13053.6
+asus,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,24gb,512gb ssd,nvidia geforce gtx1080,windows 10,2.24kg,158135.04
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx1050 ti,windows 10,3kg,80133.12
+asus,notebook,15 3/5,ips panel 4k ultra hd 3840x2160,intel core i7 7500u 2.7ghz,8gb,256gb ssd +  1tb hdd,nvidia geforce gtx 960m,windows 10,2kg,69210.72
+asus,gaming,15 3/5,ips panel full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.3kg,87858.72
+asus,notebook,15 3/5,1366x768,amd e-series 7110 1.8ghz,4gb,500gb hdd,amd radeon r2 graphics,windows 10,2kg,18594.72
+asus,notebook,15 3/5,1366x768,intel celeron dual core n3350 1.1ghz,4gb,500gb hdd,intel hd graphics 500,linux,2kg,11934.72
+asus,notebook,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.5kg,44701.92
+asus,gaming,17 1/3,ips panel full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.73kg,94305.6
+asus,2 in 1 convertible,15 3/5,touchscreen 1366x768,intel core i5 7200u 2.5ghz,8gb,1tb hdd,intel hd graphics 520,windows 10,2.2kg,39373.92
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,3kg,62231.04
+asus,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,6gb,1tb hdd,intel hd graphics 620,windows 10,1.5kg,34046.4528
+asus,ultrabook,14,full hd 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,11.1kg,101232
+asus,notebook,15 3/5,1366x768,intel celeron dual core n3350 1.1ghz,8gb,1tb hdd,intel hd graphics 500,windows 10,2kg,21258.72
+asus,notebook,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,1tb hdd,nvidia geforce gtx 1050,windows 10,1.99kg,48304.7136
+asus,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1tb hdd,nvidia geforce gtx 1050 ti,no os,2.5kg,62284.32
+asus,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6820hk 2.7ghz,32gb,512gb ssd,nvidia geforce gtx 1080,windows 10,3.8kg,149130.72
+asus,ultrabook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.1kg,60472.8
+asus,notebook,15 3/5,1366x768,intel celeron dual core n3350 1.1ghz,4gb,128gb ssd,intel hd graphics 500,windows 10,1.86kg,22324.32
+asus,2 in 1 convertible,12 1/2,full hd / touchscreen 1920x1080,intel core m m3-6y30 0.9ghz,4gb,64gb flash storage,intel hd graphics 515,chrome os,1.2kg,35644.32
+asus,notebook,14,full hd 1920x1080,intel celeron dual core n3350 1.1ghz,4gb,32gb flash storage,intel hd graphics 500,windows 10,1.5kg,15877.44
+asus,notebook,15 3/5,1366x768,intel core i5 6300hq 2.3ghz,4gb,1tb hdd,nvidia geforce gtx 950m,no os,2.45kg,30849.12
+asus,notebook,15 3/5,1366x768,intel core i7 7500u 2.7ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,2.37kg,45282.672
+asus,ultrabook,13 1/3,ips panel quad hd+ 3200x1800,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.2kg,60153.12
+asus,notebook,17 1/3,1366x768,intel pentium quad core n4200 1.1ghz,4gb,1tb hdd,nvidia geforce 920mx,windows 10,2.8kg,25059.7152
+asus,2 in 1 convertible,15 3/5,full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,12gb,2tb hdd,nvidia geforce 940mx,windows 10,2.3kg,44701.92
+asus,notebook,15 3/5,1920x1080,intel pentium dual core n4200 1.1ghz,8gb,128gb ssd,intel hd graphics 505,windows 10,2kg,31003.632
+asus,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.3kg,125208
+asus,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx1060,windows 10,2.24kg,71341.92
+asus,notebook,14,1366x768,intel celeron dual core n3350 1.1ghz,4gb,32gb flash storage,intel hd graphics 500,windows 10,1.63kg,15930.72
+asus,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2.37kg,58554.72
+asus,2 in 1 convertible,13 1/3,touchscreen / full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.1kg,72354.24
+asus,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,1tb hdd,nvidia geforce 920,linux,2.1kg,27652.32
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,2.9kg,128884.32
+asus,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,128gb hdd,intel hd graphics 620,windows 10,2.3kg,31435.2
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,512gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.73kg,95850.72
+asus,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,512gb ssd,nvidia geforce 940m,windows 10,1.45kg,54665.28
+asus,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.1kg,101178.72
+asus,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,nvidia geforce gtx 930mx,windows 10,2.3kg,41931.36
+asus,notebook,15 3/5,1366x768,intel pentium quad core n4200 1.1ghz,4gb,1tb hdd,intel hd graphics 505,windows 10,2kg,23922.72
+asus,notebook,15 3/5,1366x768,intel pentium quad core n4200 1.1ghz,4gb,1tb hdd,intel hd graphics 505,linux,2kg,21258.1872
+asus,notebook,14,1366x768,intel celeron dual core n3350 1.1ghz,4gb,32gb flash storage,intel hd graphics 500,windows 10,1.65kg,18541.44
+asus,gaming,17 1/3,full hd 1920x1080,intel core i5 7300hq 2.5ghz,12gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.2kg,72988.272
+asus,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6820hk 2.7ghz,32gb,256gb ssd +  256gb ssd,nvidia geforce gtx 980m,windows 10,3.58kg,68145.12
+asus,notebook,17 1/3,1600x900,intel pentium quad core n3710 1.6ghz,4gb,1tb hdd,nvidia geforce 920mx,windows 10,2.8kg,28238.4
+asus,2 in 1 convertible,12 1/2,full hd 1920x1080,intel core m m7-6y75 1.2ghz,8gb,64gb flash storage,intel hd graphics 515,chrome os,1.2kg,61751.52
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.73kg,109218.672
+asus,2 in 1 convertible,15 3/5,4k ultra hd / touchscreen 3840x2160,intel core i7 7500u 2.7ghz,16gb,512gb ssd +  2tb hdd,nvidia geforce gtx 950m,windows 10,2.3kg,95850.72
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.99kg,93186.72
+asus,notebook,13 1/3,quad hd+ 3200x1800,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.4kg,61272
+asus,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.5kg,95850.72
+asus,netbook,11 3/5,1366x768,intel celeron dual core n3060 1.6ghz,4gb,16gb flash storage,intel hd graphics 400,chrome os,1.2kg,15339.312
+asus,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,1tb hdd,nvidia geforce gtx 965m,no os,4kg,53173.44
+asus,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6820hk 2.7ghz,64gb,1tb ssd,nvidia geforce gtx 980,windows 10,3.58kg,211788
+asus,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.7kg,85194.72
+asus,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 980m,windows 10,4.3kg,122490.72
+asus,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,windows 10,2.59kg,71341.92
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,windows 10,3.52kg,69929.4672
+asus,notebook,15 3/5,1366x768,intel core i3 7100u 2.4ghz,4gb,1tb hdd,intel hd graphics 620,windows 10,2kg,23176.8
+asus,notebook,14,1366x768,intel celeron dual core n3350 1.1ghz,4gb,32gb flash storage,intel hd graphics 500,windows 10,1.5kg,14811.84
+asus,notebook,15 3/5,1366x768,intel celeron dual core n3050 1.6ghz,4gb,500gb hdd,intel hd graphics,windows 10,2.2kg,19660.32
+asus,notebook,14,full hd 1920x1080,intel core i3 7100u 2.4ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,2kg,40972.32
+asus,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,256gb ssd +  1tb hdd,nvidia geforce gtx 960m,windows 10,2.591kg,48431.52
+asus,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,512gb ssd +  1tb hdd,nvidia geforce gtx 980m,windows 10,4.3kg,114552
+asus,gaming,15 3/5,full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,1tb hdd,nvidia geforce gtx 1060,windows 10,2.2kg,62284.32
+asus,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,2.2kg,130482.72
+asus,notebook,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.2kg,93186.72
+asus,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.9kg,103842.72
+asus,notebook,15 3/5,1366x768,intel pentium quad core n3710 1.6ghz,4gb,1tb hdd,intel hd graphics 405,windows 10,2.65kg,16463.52
+asus,ultrabook,13 1/3,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.45kg,68198.4
+asus,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,2.34kg,123876
+asus,notebook,15 3/5,1366x768,intel celeron dual core n3350 1.1ghz,4gb,1tb hdd,intel hd graphics 500,windows 10,2kg,18061.92
+asus,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 970m,windows 10,4.0kg,101232
+asus,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core m 6y30 0.9ghz,8gb,512gb ssd,intel hd graphics 515,windows 10,1.2kg,38841.12
+asus,notebook,15 3/5,1366x768,intel core i7 6500u 2.5ghz,4gb,500gb hdd,nvidia geforce 920m,windows 10,2.2kg,38378.6496
+chuwi,notebook,15 3/5,full hd 1920x1080,intel atom x5-z8300 1.44ghz,4gb,64gb flash storage,intel hd graphics,windows 10,1.89kg,13053.0672
+chuwi,notebook,12 1/3,ips panel retina display 2736x1824,intel celeron quad core n3450 1.1ghz,6gb,64gb flash storage,intel hd graphics 500,windows 10,1.4kg,23922.72
+chuwi,notebook,15 3/5,full hd 1920x1080,intel atom x5-z8350 1.44ghz,4gb,64gb flash storage,intel hd graphics,windows 10,1.89kg,13261.392
+dell,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,256gb ssd,amd radeon r5 m430,windows 10,2.2kg,26581.392
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,amd radeon r5 m430,windows 10,2.2kg,39693.6
+dell,ultrabook,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i5 8250u 1.6ghz,8gb,128gb ssd,intel uhd graphics 620,windows 10,1.22kg,52161.12
+dell,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.62kg,43636.32
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,1tb hdd,intel hd graphics 520,windows 10,2.3kg,22305.1392
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,amd radeon 530,windows 10,2.2kg,42624
+dell,ultrabook,15 3/5,full hd 1920x1080,intel core i7 8650u 1.9ghz,8gb,256gb ssd +  256gb ssd,intel uhd graphics 620,windows 10,1.88kg,69157.44
+dell,ultrabook,13 1/3,touchscreen / quad hd+ 3200x1800,intel core i7 8550u 1.8ghz,16gb,512gb ssd,intel uhd graphics 620,windows 10,1.2kg,99580.32
+dell,notebook,17 1/3,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,128gb ssd +  1tb hdd,amd radeon 530,windows 10,2.8kg,52161.12
+dell,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.65kg,79866.72
+dell,2 in 1 convertible,17 1/3,full hd / touchscreen 1920x1080,intel core i5 8250u 1.6ghz,12gb,1tb hdd,nvidia geforce 150mx,windows 10,2.77kg,53226.72
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,256gb ssd,amd radeon r5 m430,windows 10,2.3kg,34045.92
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,amd radeon 520,windows 10,2.13kg,40908.384
+dell,notebook,17 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,16gb,256gb ssd +  2tb hdd,amd radeon 530,windows 10,2.8kg,69210.72
+dell,ultrabook,14,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.7kg,46833.12
+dell,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,64gb,256gb ssd,amd radeon 530,windows 10,1.4kg,50882.4
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,amd radeon 530,windows 10,2.2kg,46353.6
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,128gb ssd +  1tb hdd,intel uhd graphics 620,windows 10,2.02kg,45554.4
+dell,ultrabook,15 3/5,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.88kg,58403.4048
+dell,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.65kg,71874.72
+dell,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.21kg,87858.72
+dell,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,256gb ssd,nvidia geforce gtx 1060,windows 10,2.65kg,63669.6
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,amd radeon r5 m430,linux,2.2kg,31962.672
+dell,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,256gb ssd,amd radeon r5 m430,linux,2.2kg,25840.8
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,1tb hdd,amd radeon 520,linux,2.2kg,34472.16
+dell,ultrabook,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i7 7560u 2.4ghz,8gb,256gb ssd,intel iris plus graphics 640,windows 10,1.23kg,73473.12
+dell,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.21kg,86793.12
+dell,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd +  1tb hdd,nvidia geforce 940mx,windows 10,2.16kg,60223.9824
+dell,notebook,17 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,16gb,256gb ssd +  2tb hdd,amd radeon 530,windows 10,2.8kg,74378.88
+dell,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,1tb hdd,amd radeon r7 m445,windows 10,2.36kg,34045.3872
+dell,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,1tb hdd,amd radeon r5 m430,windows 10,2.2kg,23922.72
+dell,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,512gb ssd,nvidia geforce gtx 1050,windows 10,2.56kg,66560.5728
+dell,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1.0tb hybrid,nvidia geforce gtx 1050,windows 10,2.62kg,47898.72
+dell,2 in 1 convertible,15 3/5,full hd / touchscreen 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.56kg,55890.72
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,amd radeon 520,windows 10,2.13kg,38787.84
+dell,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.56kg,56502.9072
+dell,notebook,15 3/5,1366x768,intel core i3 7100u 2.4ghz,8gb,1tb hdd,intel hd graphics 620,windows 10,2.3kg,24455.52
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,16gb,256gb ssd +  2tb hdd,amd radeon 530,linux,2.02kg,55890.72
+dell,ultrabook,13 1/3,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.23kg,74538.72
+dell,notebook,17 1/3,full hd / touchscreen 1920x1080,intel core i7 8550u 1.8ghz,16gb,512gb ssd,nvidia geforce 150mx,windows 10,2.77kg,82530.72
+dell,notebook,15 3/5,4k ultra hd / touchscreen 3840x2160,intel core i7 7700hq 2.8ghz,16gb,512gb ssd,nvidia geforce gtx 1050,windows 10,2.06kg,127712.16
+dell,notebook,17 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,128gb ssd +  1tb hdd,amd radeon 530,windows 10,2.8kg,57808.8
+dell,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i7 8550u 1.8ghz,8gb,1tb hdd,intel uhd graphics 620,windows 10,1.62kg,44701.92
+dell,gaming,15 3/5,ips panel 4k ultra hd 3840x2160,intel core i7 7700hq 2.8ghz,16gb,512gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.65kg,98301.6
+dell,workstation,15 3/5,4k ultra hd 3840x2160,intel xeon e3-1505m v6 3ghz,16gb,256gb ssd +  1tb hdd,nvidia quadro m1200,windows 10,2.8kg,162770.4
+dell,notebook,15 3/5,touchscreen 1366x768,intel core i3 7100u 2.4ghz,6gb,1tb hdd,intel hd graphics 620,windows 10,2.3kg,23389.92
+dell,ultrabook,13 1/3,ips panel 4k ultra hd / touchscreen 3840x2160,intel core i7 8550u 1.8ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.21kg,103842.72
+dell,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,amd radeon 530,windows 10,1.4kg,49650.5664
+dell,ultrabook,14,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.6kg,61218.72
+dell,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i7 8550u 1.8ghz,16gb,512gb ssd,intel uhd graphics 620,windows 10,1.62kg,68145.12
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,amd radeon 520,linux,2.2kg,36089.208
+dell,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,4.42kg,130873.7952
+dell,notebook,15 3/5,full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,16gb,1tb hdd,amd radeon r7 m445,windows 10,2.3kg,45768.0528
+dell,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.6kg,45767.52
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,16gb,256gb ssd,amd radeon r7 m445,linux,2.36kg,47898.72
+dell,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,256gb ssd,nvidia geforce gtx 1050,windows 10,2.56kg,46833.12
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,128gb ssd +  2tb hdd,amd radeon 530,windows 10,2.2kg,52480.8
+dell,2 in 1 convertible,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i7 8550u 1.8ghz,8gb,1tb hdd,intel uhd graphics 620,windows 10,2.08kg,43636.32
+dell,ultrabook,13 1/3,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.41kg,50562.72
+dell,notebook,17 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,128gb ssd +  1tb hdd,amd radeon 530,windows 10,2.8kg,60845.76
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,1tb hdd,intel hd graphics 620,windows 10,2.18kg,35004.96
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,1tb hdd,amd radeon r5 m430,windows 10,2.24kg,30103.2
+dell,2 in 1 convertible,15 3/5,full hd / touchscreen 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,2.67kg,42570.72
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,amd radeon 520,linux,2.14kg,39164.5296
+dell,notebook,15 3/5,1366x768,intel core i7 7500u 2.7ghz,12gb,1tb hdd,intel hd graphics 620,windows 10,2.3kg,37992.3696
+dell,notebook,17 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,128gb ssd +  1tb hdd,amd radeon 530,linux,2.8kg,58554.72
+dell,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2.0ghz,4gb,1tb hdd,amd radeon r5 m430,linux,2.25kg,22803.84
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,nvidia geforce gtx 1050,windows 10,2kg,97449.12
+dell,workstation,17 1/3,full hd 1920x1080,intel core i7 7820hq 2.9ghz,16gb,256gb ssd,nvidia quadro m1200,windows 10,3.42kg,153705.3408
+dell,ultrabook,13 1/3,ips panel 4k ultra hd / touchscreen 3840x2160,intel core i7 8550u 1.8ghz,16gb,1tb ssd,intel uhd graphics 620,windows 10,1.21kg,133146.72
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,128gb ssd +  1tb hdd,amd radeon 530,windows 10,2.33kg,44968.32
+dell,notebook,15 3/5,4k ultra hd / touchscreen 3840x2160,intel core i7 7700hq 2.8ghz,32gb,1tb ssd,nvidia geforce gtx 1050,windows 10,2.06kg,140605.92
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,nvidia geforce 940mx,windows 10,2kg,60885.72
+dell,notebook,15 3/5,1366x768,intel celeron dual core n3060 1.6ghz,4gb,500gb hdd,intel hd graphics,linux,2.2kg,14646.672
+dell,ultrabook,13 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.2kg,84129.12
+dell,ultrabook,15 3/5,full hd 1920x1080,intel core i7 8650u 1.9ghz,16gb,512gb ssd +  256gb ssd,intel uhd graphics 620,windows 10,1.88kg,85672.1088
+dell,ultrabook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,1tb hdd,amd radeon 530,windows 10,0.0002kg,35324.64
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,128gb ssd +  2tb hdd,amd radeon 530,windows 10,2.02kg,51729.552
+dell,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,1tb hdd,nvidia geforce gtx 1050,windows 10,2.65kg,53226.72
+dell,notebook,15 3/5,touchscreen 1366x768,intel core i5 7200u 2.5ghz,8gb,2tb hdd,intel hd graphics 620,windows 10,2.36kg,29696.6736
+dell,notebook,14,full hd 1920x1080,intel core i5 7300u 2.6ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.36kg,76030.56
+dell,notebook,17 1/3,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,128gb ssd +  1tb hdd,amd radeon 530,windows 10,2.8kg,57808.8
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,amd radeon r7 m445,windows 10,2.33kg,47898.72
+dell,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.62kg,46300.8528
+dell,notebook,15 3/5,1366x768,intel celeron dual core n3060 1.60ghz,4gb,500gb hdd,intel hd graphics 400,windows 10,1.8kg,16463.52
+dell,workstation,15 3/5,full hd 1920x1080,intel core i5 6440hq 2.6ghz,8gb,500gb hdd,amd firepro w5130m,windows 10,2.23kg,72940.32
+dell,workstation,15 3/5,ips panel full hd 1920x1080,intel core i7 6820hq 2.7ghz,8gb,256gb ssd,nvidia quadro m1200,windows 10,2kg,113752.8
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,amd radeon r7 m445,linux,2.33kg,41498.1936
+dell,workstation,15 3/5,4k ultra hd / touchscreen 3840x2160,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,nvidia quadro m1200,windows 10,1.78kg,144495.36
+dell,ultrabook,14,full hd 1920x1080,intel core i7 7600u 2.8ghz,8gb,512gb ssd,intel hd graphics,windows 10,1.36kg,89510.4
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,256gb ssd,amd radeon r5 m430,linux,2.3kg,31909.392
+dell,notebook,13 1/3,1366x768,intel core i3 6006u 2ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,1.65kg,36709.92
+dell,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,1tb hdd,intel hd graphics 620,windows 10,2.14kg,28768.536
+dell,gaming,27 1/3,ips panel 2560x1440,intel core i7 7820hk 2.9ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.42kg,149130.72
+dell,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.62kg,61751.52
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd +  2tb hdd,amd radeon 530,windows 10,2.02kg,60867.072
+dell,ultrabook,14,full hd 1920x1080,intel core i7 7600u 2.8ghz,8gb,256gb ssd,intel hd graphics 620,linux,1.6kg,58554.72
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,4gb,256gb ssd,amd radeon 530,windows 10,2.2kg,39906.72
+dell,notebook,14,full hd 1920x1080,intel core i5 7440hq 2.8ghz,8gb,256gb ssd,nvidia geforce 930mx,windows 10,1.64kg,62817.12
+dell,workstation,15 3/5,full hd 1920x1080,intel xeon e3-1505m v6 3ghz,8gb,64gb flash storage +  1tb hdd,nvidia quadro m620,windows 10,2.23kg,106187.04
+dell,workstation,15 3/5,ips panel full hd 1920x1080,intel core i7 6820hq 2.7ghz,16gb,256gb ssd,nvidia quadro m620,windows 10,2.17kg,105228
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,128gb ssd +  1tb hdd,amd radeon 530,windows 10,2.36kg,52161.12
+dell,2 in 1 convertible,11 3/5,touchscreen 1366x768,intel pentium quad core n3710 1.6ghz,4gb,500gb hdd,intel hd graphics 405,windows 10,1.47kg,25521.12
+dell,notebook,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.7ghz,8gb,1tb hdd,nvidia geforce gtx 1060,windows 10,4.42kg,109010.88
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,2tb hdd,amd radeon 530,windows 10,2.02kg,40439.52
+dell,ultrabook,13 1/3,full hd / touchscreen 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.42kg,98133.768
+dell,notebook,14,1366x768,intel core i3 6100u 2.3ghz,8gb,128gb ssd,intel hd graphics 520,windows 10,1.79kg,39427.2
+dell,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,512gb ssd,nvidia geforce 940mx,windows 10,2.16kg,67239.36
+dell,notebook,15 3/5,1366x768,intel core i3 7100u 2.4ghz,4gb,1tb hdd,intel hd graphics 620,windows 10,2.18kg,31254.048
+dell,workstation,15 3/5,ips panel full hd 1920x1080,intel core i7 6820hq 2.7ghz,16gb,512gb ssd,nvidia quadro m620,windows 10,2.17kg,124568.64
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,512gb ssd,nvidia geforce gtx 1050,windows 10,2.06kg,101178.72
+dell,ultrabook,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,128gb ssd,intel hd graphics 620,windows 10,1.29kg,47898.72
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,1tb hdd,intel hd graphics 620,windows 10,2.18kg,44542.08
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,16gb,256gb ssd +  2tb hdd,amd radeon 530,windows 10,2.2kg,64961.1072
+dell,notebook,14,full hd 1920x1080,intel core i5 7300u 2.6ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.64kg,68184.0144
+dell,notebook,17 1/3,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,128gb ssd +  1tb hdd,amd radeon 530,linux,2.8kg,47365.92
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,500gb hdd,amd radeon r5 m430,windows 10,2.3kg,31168.8
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7440hq 2.8ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.9kg,73366.56
+dell,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.42kg,160520.3856
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7600u 2.8ghz,8gb,256gb ssd,nvidia geforce 930mx,windows 10,1.93kg,72940.32
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,amd radeon 530,windows 10,2.2kg,42486.0048
+dell,ultrabook,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i7 8550u 1.8ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.2kg,74538.72
+dell,notebook,14,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,1.6kg,39207.1536
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.9kg,59513.2272
+dell,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.42kg,143802.72
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,1tb hdd,amd radeon r5 m420,windows 10,2.18kg,32921.712
+dell,ultrabook,13 1/3,ips panel 4k ultra hd / touchscreen 3840x2160,intel core i5 8250u 1.6ghz,8gb,128gb ssd,intel uhd graphics 620,windows 10,1.21kg,85194.72
+dell,notebook,15 3/5,1366x768,intel core i5 7300u 2.6ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,1.93kg,51095.52
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,amd radeon r5 m430,linux,2.2kg,39907.2528
+dell,notebook,15 3/5,1366x768,intel core i5 7300u 2.6ghz,8gb,500gb hdd,intel hd graphics 620,windows 10,1.9kg,53733.9456
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7600u 2.8ghz,16gb,256gb ssd,nvidia geforce 930mx,windows 10,1.93kg,81912.1392
+dell,netbook,11 3/5,1366x768,intel celeron dual core n3060 1.6ghz,4gb,16gb flash storage,intel hd graphics 400,chrome os,1.26kg,15717.6
+dell,2 in 1 convertible,31 3/5,touchscreen 1366x768,intel core m 7y30 1.0ghz,4gb,128gb ssd,intel hd graphics 615,windows 10,1.39kg,32127.84
+dell,2 in 1 convertible,12 1/2,full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.34kg,88977.6
+dell,workstation,15 3/5,full hd / touchscreen 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,nvidia quadro m620,windows 10,2.06kg,93932.64
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,1tb hdd,amd radeon r5 m420,linux,2.18kg,24775.2
+dell,gaming,15 3/5,full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,1tb hdd,nvidia geforce gtx 960<u+039c>,windows 10,2.59kg,46833.6528
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2.0ghz,4gb,1tb hdd,intel hd graphics 520,linux,2.18kg,23650.992
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2.0ghz,4gb,1tb hdd,intel hd graphics 520,linux,2.25kg,19127.52
+dell,notebook,15 3/5,1366x768,intel core i5 7300u 2.6ghz,4gb,500gb hdd,intel hd graphics 620,linux,1.93kg,46300.32
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,4gb,1tb hdd,amd radeon 530,windows 10,2.2kg,41345.28
+dell,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.62kg,78801.12
+dell,ultrabook,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.23kg,99580.32
+dell,notebook,15 3/5,4k ultra hd / touchscreen 3840x2160,intel core i7 7700hq 2.8ghz,16gb,1tb ssd,nvidia geforce gtx 1050,windows 10,2.06kg,127818.72
+dell,ultrabook,13 1/3,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.2kg,77250.672
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,amd radeon 530,windows 10,6.2kg,48964.32
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,16gb,256gb ssd +  2tb hdd,amd radeon 530,windows 10,2.2kg,60472.8
+dell,gaming,17 1/3,ips panel 4k ultra hd 3840x2160,intel core i7 7700hq 2.8ghz,32gb,512gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.42kg,167691.8736
+dell,notebook,14,full hd 1920x1080,intel core i5 6300u 2.4ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.56kg,65481.12
+dell,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,3.21kg,109277.28
+dell,gaming,15 3/5,full hd 1920x1080,intel core i7 7820hk 2.9ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,3.49kg,149916.6
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,1tb hdd,amd radeon r5 m430,windows 10,2.2kg,29073.2976
+dell,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,1tb hdd,nvidia geforce gtx 1050,windows 10,2.56kg,43636.32
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2.18kg,42357.6
+dell,notebook,14,full hd 1920x1080,intel core i5 7440hq 2.8ghz,8gb,256gb ssd,nvidia geforce 930mx,linux,1.64kg,58021.92
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,1tb hdd,intel hd graphics 620,linux,1.98kg,38681.28
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7300u 2.6ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.93kg,76012.4448
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7300u 2.6ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.9kg,62817.12
+dell,gaming,17 1/3,4k ultra hd 3840x2160,intel core i7 7700hq 2.8ghz,32gb,1tb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.36kg,194972.832
+dell,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i3 7100u 2.4ghz,4gb,1tb hdd,intel hd graphics 620,windows 10,1.71kg,34578.72
+dell,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,1tb hdd,amd radeon r7 m445,linux,2.32kg,31409.6256
+dell,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,12gb,1tb hdd,intel hd graphics 620,windows 10,2.25kg,34578.72
+dell,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i5 8250u 1.6ghz,8gb,1tb hdd,intel uhd graphics 620,windows 10,1.55kg,35111.52
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce 940mx,windows 10,2.0kg,64308.96
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,2kg,35431.2
+dell,notebook,14,1366x768,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.6kg,60031.1088
+dell,gaming,15 3/5,ips panel 4k ultra hd 3840x2160,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.42kg,152859.7872
+dell,ultrabook,12 1/2,full hd 1920x1080,intel core i7 7600u 2.8ghz,16gb,256gb ssd,intel hd graphics 620,windows 10,1.18kg,99047.52
+dell,notebook,13 1/3,1366x768,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,1.65kg,45234.72
+dell,gaming,15 3/5,ips panel touchscreen / 4k ultra hd 3840x2160,intel core i7 6700hq 2.6ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,windows 10,2.72kg,58554.72
+dell,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1tb hdd,nvidia geforce gtx 1050,windows 10,2.62kg,58554.72
+dell,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,32gb,1tb ssd +  1tb hdd,nvidia geforce gtx 1070m,windows 10,4.42kg,191211.264
+dell,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,256gb ssd,nvidia geforce gtx 1050,windows 10,2.62kg,52480.8
+dell,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,128gb ssd,intel hd graphics 620,windows 10,1.95kg,43156.8
+dell,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,8gb,256gb ssd,amd radeon r5 m420x,windows 10,2kg,39373.92
+dell,ultrabook,13 1/3,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.29kg,79866.72
+dell,notebook,15 3/5,4k ultra hd / touchscreen 3840x2160,intel core i5 7300hq 2.5ghz,8gb,256gb ssd,nvidia geforce gtx 1050,windows 10,2.06kg,93186.72
+dell,netbook,11 3/5,1366x768,intel pentium quad core n4200 1.1ghz,4gb,128gb ssd,intel hd graphics 505,windows 10,1.63kg,39640.32
+dell,gaming,15 3/5,4k ultra hd 3840x2160,intel core i7 7700hq 2.8ghz,16gb,512gb ssd,nvidia geforce gtx 1050 ti,windows 10,2.62kg,89457.12
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,nvidia geforce gt 940mx,windows 10,1.98kg,51202.08
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,amd radeon r5 m420,windows 10,2.18kg,42081.0768
+dell,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,4.36kg,133467.4656
+dell,notebook,14,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,1.76kg,40226.4
+dell,notebook,14,1366x768,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,1.76kg,31168.8
+dell,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,3.21kg,147832.2864
+dell,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,32gb,512gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.42kg,163723.5792
+dell,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,128gb ssd,intel hd graphics 620,windows 10,2.18kg,38041.3872
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,4gb,256gb ssd,amd radeon r5 m420,windows 10,2.18kg,39373.92
+dell,notebook,17 1/3,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,amd radeon r7 m445,linux,2.83kg,46087.2
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,128gb ssd,intel hd graphics 620,windows 10,1.9kg,50349.6
+dell,notebook,13 1/3,full hd / touchscreen 1920x1080,intel core i5 6200u 2.3ghz,8gb,1tb hdd,intel hd graphics 520,windows 10,1.62kg,34578.72
+dell,ultrabook,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i7 7660u 2.5ghz,16gb,512gb ssd,intel iris plus graphics 640,windows 10,1.29kg,119347.2
+dell,workstation,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1tb hdd,nvidia quadro m620,windows 10,2.23kg,94731.84
+dell,ultrabook,12 1/2,full hd 1920x1080,intel core i7 7600u 2.8ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.6kg,90043.2
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,128gb ssd +  1tb hdd,nvidia geforce 940mx,windows 10,2.18kg,48618
+dell,notebook,15 3/5,1366x768,intel pentium quad core n3710 1.6ghz,4gb,500gb hdd,intel hd graphics,windows 10,2.2kg,19660.32
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2.0ghz,4gb,1tb hdd,amd radeon r5 m420x,linux,2.18kg,24279.696
+dell,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1tb hdd,nvidia geforce gtx 1050ti,linux,2.62kg,49497.12
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2.0ghz,4gb,1tb hdd,amd radeon r5 m420x,windows 10,2.18kg,32713.92
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7300u 2.6ghz,8gb,500gb hdd,intel hd graphics 620,windows 10,1.9kg,49816.8
+dell,2 in 1 convertible,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i7 7y75 1.3ghz,8gb,512gb ssd,intel hd graphics 615,windows 10,1.24kg,107257.968
+dell,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i7 7y75 1.3ghz,16gb,256gb ssd,intel hd graphics 615,windows 10,1.22kg,87858.72
+dell,notebook,14,full hd 1920x1080,intel core i5 7440hq 2.8ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.6kg,64202.4
+dell,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.6kg,71874.72
+dell,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,1tb hdd,amd radeon r5 m420,windows 10,2.18kg,36496.2672
+dell,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,1.95kg,38889.072
+dell,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,1tb hdd,intel hd graphics 620,windows 10,2.18kg,37725.4368
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2.0ghz,4gb,1tb hdd,intel hd graphics 520,windows 10,2.18kg,29762.208
+dell,gaming,17 1/3,2560x1440,intel core i7 6820hk 2.7ghz,16gb,512gb ssd +  1tb hdd,nvidia geforce gtx 1080,windows 10,4.36kg,146946.24
+dell,ultrabook,12 1/2,full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics,windows 10,1.36kg,78438.816
+dell,notebook,17 1/3,1600x900,intel core i3 6006u 2.0ghz,4gb,1tb hdd,amd radeon r7 m445,windows 10,2.36kg,35111.52
+dell,ultrabook,14,full hd 1920x1080,intel core i7 7600u 2.8ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.36kg,94572
+dell,gaming,17 1/3,ips panel 4k ultra hd 3840x2160,intel core i7 7700hq 2.8ghz,16gb,512gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.36kg,168045.12
+dell,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i5 7y54 1.2ghz,8gb,256gb ssd,intel hd graphics 615,windows 10,1.24kg,101178.72
+dell,ultrabook,13 1/3,quad hd+ 3200x1800,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.3kg,67559.04
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2.0ghz,4gb,1tb hdd,amd radeon r5 m430,linux,2.25kg,24808.2336
+dell,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,1.9kg,43956
+dell,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,32gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.42kg,167778.72
+dell,2 in 1 convertible,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i7 7y75 1.3ghz,16gb,512gb ssd,intel hd graphics 615,windows 10,1.22kg,101178.72
+dell,ultrabook,14,touchscreen 2560x1440,intel core i7 6600u 2.6ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.5kg,104587.5744
+dell,gaming,17 1/3,full hd 1920x1080,intel core i7 6700hq 2.6ghz,32gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.42kg,149184
+dell,2 in 1 convertible,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,12gb,512gb ssd,intel hd graphics 620,windows 10,2.19kg,69210.72
+dell,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,amd radeon r5 m430,windows 10,2.25kg,31914.72
+dell,notebook,15 3/5,1366x768,intel core i7 7500u 2.7ghz,8gb,1tb hdd,amd radeon r7 m445,windows 10,2.36kg,39906.72
+dell,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,128gb ssd,intel hd graphics 620,windows 10,1.6kg,59620.32
+dell,notebook,15 3/5,1366x768,intel core i3 7100u 2.4ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,2.18kg,29144.16
+dell,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,1.0tb hybrid,nvidia geforce gtx 1050,windows 10,2.65kg,50562.72
+dell,2 in 1 convertible,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i3 6100u 2.3ghz,4gb,1tb hdd,intel hd graphics 520,windows 10,2.08kg,42410.3472
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 6300u 2.4ghz,8gb,500gb hdd,intel hd graphics 520,windows 10,2.09kg,55754.3232
+dell,ultrabook,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.29kg,86526.72
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 6300u 2.4ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,2.09kg,56633.976
+dell,2 in 1 convertible,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i5 7200u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2.3kg,58288.32
+dell,ultrabook,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i7 7500u 2.7ghz,16gb,1tb ssd,intel hd graphics 620,windows 10,1.2kg,120093.12
+dell,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,12gb,256gb ssd,intel hd graphics 620,windows 10,1.6kg,69210.72
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,1tb hdd,intel hd graphics,windows 10,2.25kg,29783.52
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,16gb,2tb hdd,amd radeon r7 m445,windows 10,2.32kg,52746.6672
+dell,ultrabook,13 1/3,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.29kg,77682.24
+dell,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.62kg,42517.9728
+dell,gaming,15 3/5,4k ultra hd 3840x2160,intel core i7 6700hq 2.6ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 970m,windows 10,3.21kg,70809.12
+dell,notebook,15 3/5,1366x768,intel core i3 6100u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.06kg,25679.8944
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2.18kg,39960
+dell,notebook,15 3/5,1366x768,intel pentium quad core n3700 1.6ghz,4gb,500gb hdd,intel hd graphics,linux,2.2kg,20965.1472
+dell,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,4gb,256gb ssd,amd radeon 530,windows 10,1.4kg,43601.688
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,1tb hdd,amd radeon r7 m445,windows 10,2.36kg,34035.264
+dell,ultrabook,12 1/2,1366x768,intel core i3 6100u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 7,1.5kg,60480.792
+dell,ultrabook,12 1/2,1366x768,intel core i3 6100u 2.3ghz,4gb,128gb ssd,intel hd graphics 520,windows 7,1.5kg,62176.1616
+dell,ultrabook,12 1/2,1366x768,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.5kg,75289.968
+dell,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,amd radeon r5 m315,windows 7,2.24kg,40980.312
+dell,ultrabook,13 1/3,full hd 1920x1080,intel core i7 7560u 2.4ghz,8gb,256gb ssd,intel iris plus graphics 640,windows 10,1.23kg,73473.12
+dell,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,linux,2.09kg,27899.0064
+dell,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,1tb hdd,amd radeon r7 m445,windows 10,2.5kg,41771.52
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,nvidia geforce 940mx,windows 10,2.18kg,53807.472
+dell,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1tb hdd,nvidia geforce gtx 1050ti,windows 10,2.62kg,63882.72
+dell,notebook,15 3/5,ips panel touchscreen / 4k ultra hd 3840x2160,intel core i5 6300hq 2.3ghz,8gb,256gb ssd,nvidia geforce 960m,windows 10,2.04kg,119916.2304
+dell,gaming,15 3/5,4k ultra hd 3840x2160,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.62kg,79813.44
+dell,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,nvidia geforce gt 940mx,linux,1.98kg,47686.1328
+dell,2 in 1 convertible,15 3/5,full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,2.09kg,62817.12
+dell,ultrabook,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i5 6300u 2.4ghz,8gb,256gb ssd,intel hd graphics 520,linux,1.23kg,58554.72
+dell,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.6kg,63882.72
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2.0ghz,4gb,128gb ssd,amd radeon r7 m440,windows 10,2.3kg,26586.72
+dell,ultrabook,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.2kg,142790.4
+dell,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,amd radeon r7 m445,windows 10,2.36kg,47365.92
+dell,2 in 1 convertible,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2.191kg,53226.72
+dell,ultrabook,12 1/2,full hd / touchscreen 1920x1080,intel core i5 6300u 2.4ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.26kg,91288.3536
+dell,2 in 1 convertible,15,full hd / touchscreen 1920x1080,intel core i3 7100u 2.4ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.08kg,27119.52
+dell,ultrabook,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.29kg,78694.56
+dell,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,1tb hdd,intel hd graphics 520,linux,2.18kg,27804.7008
+dell,notebook,15 3/5,touchscreen 1366x768,intel core i3 7100u 2.4ghz,8gb,1tb hdd,intel hd graphics 620,windows 10,2.3kg,24988.8528
+dell,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 7,2.24kg,39267.36
+dell,2 in 1 convertible,17 1/3,full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,nvidia geforce 940mx,windows 10,2.77kg,95850.72
+dell,notebook,14,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,1.6kg,46620
+dell,2 in 1 convertible,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i5 7y54 1.2ghz,8gb,256gb ssd,intel hd graphics 615,windows 10,1.24kg,96596.64
+dell,notebook,15 3/5,1366x768,intel pentium quad core n3710 1.6ghz,4gb,500gb hdd,intel hd graphics,linux,2.2kg,17262.72
+dell,notebook,15 3/5,1366x768,intel pentium quad core n3700 1.6ghz,4gb,500gb hdd,intel hd graphics,windows 10,2.2kg,23655.7872
+dell,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.29kg,26107.2
+dell,notebook,15 3/5,1366x768,intel core i3 7100u 2.4ghz,6gb,1tb hdd,intel hd graphics 620,windows 10,2.3kg,24455.52
+dell,notebook,15 3/5,1366x768,intel celeron dual core n3050 1.6ghz,2gb,500gb hdd,intel hd graphics,windows 10,2.20kg,20193.12
+dell,notebook,15 3/5,1366x768,intel core i7 7500u 2.7ghz,8gb,1tb hdd,amd radeon r5 m430,linux,2.3kg,42943.1472
+fujitsu,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2.2kg,42570.72
+fujitsu,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,256gb ssd,intel hd graphics 520,windows 10,2.3kg,34578.72
+google,ultrabook,12 1/3,touchscreen 2400x1600,intel core i7 7y75 1.3ghz,16gb,512gb ssd,intel hd graphics 615,chrome os,1.1kg,117162.72
+google,ultrabook,12 1/3,touchscreen 2400x1600,intel core i5 7y57 1.2ghz,8gb,128gb ssd,intel hd graphics 615,chrome os,1.1kg,67932
+google,ultrabook,12 1/3,touchscreen 2400x1600,intel core i5 7y57 1.2ghz,8gb,256gb ssd,intel hd graphics 615,chrome os,1.1kg,83063.52
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,no os,1.86kg,30636
+hp,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,no os,1.86kg,20986.992
+hp,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,no os,1.86kg,18381.0672
+hp,notebook,15 3/5,1366x768,amd e-series e2-9000e 1.5ghz,4gb,500gb hdd,amd radeon r2,no os,1.86kg,13746.24
+hp,ultrabook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.91kg,35111.52
+hp,notebook,17 1/3,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,1tb hdd,nvidia geforce 930mx,windows 10,2.5kg,47738.88
+hp,notebook,17 1/3,full hd 1920x1080,amd a6-series 9220 2.5ghz,4gb,500gb hdd,amd radeon 530,windows 10,2.71kg,23389.92
+hp,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,1tb hdd,intel hd graphics 620,windows 10,1.86kg,26037.4032
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,nvidia geforce 930mx,windows 10,2.1kg,46833.12
+hp,notebook,15 3/5,full hd 1920x1080,amd a6-series 9220 2.5ghz,4gb,256gb ssd,amd radeon r4 graphics,windows 10,1.86kg,21231.5472
+hp,notebook,13 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,512gb ssd,intel uhd graphics 620,windows 10,1.49kg,58767.84
+hp,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,1.91kg,23389.92
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.86kg,36763.2
+hp,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,500gb hdd,amd radeon 520,windows 10,1.86kg,23373.4032
+hp,notebook,14,1366x768,intel celeron dual core n3060 1.6ghz,4gb,32gb ssd,intel hd graphics 400,windows 10,1.44kg,12201.12
+hp,notebook,17 1/3,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce 930mx,windows 10,2.5kg,52054.56
+hp,notebook,14,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.63kg,45820.8
+hp,ultrabook,15 3/5,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,nvidia geforce gtx 940mx,windows 10,1.83kg,37242.72
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.96kg,31914.1872
+hp,notebook,13 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,16gb,512gb ssd,intel uhd graphics 620,windows 10,1.49kg,63776.16
+hp,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,12gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.62kg,66546.72
+hp,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,amd radeon 530,windows 10,1.91kg,38308.32
+hp,notebook,15 3/5,full hd 1920x1080,amd e-series e2-9000e 1.5ghz,4gb,500gb hdd,amd radeon r2,windows 10,2.1kg,18594.72
+hp,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,nvidia geforce mx150,windows 10,1.38kg,59620.32
+hp,notebook,14,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,6gb,256gb ssd,nvidia geforce 940mx,windows 10,1.58kg,35111.52
+hp,notebook,14,ips panel 1366x768,intel core i5 8250u 1.6ghz,4gb,500gb hdd,intel uhd graphics 620,windows 10,1.63kg,38468.16
+hp,notebook,14,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,512gb ssd,intel uhd graphics 620,windows 10,1.63kg,57755.52
+hp,notebook,17 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,16gb,512gb ssd,nvidia geforce 930mx,windows 10,2.5kg,67718.88
+hp,notebook,14,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,1tb hdd,intel uhd graphics 620,windows 10,1.63kg,43263.36
+hp,notebook,17 1/3,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,2.5kg,49443.84
+hp,notebook,15 3/5,1366x768,intel core i7 7500u 2.7ghz,8gb,1tb hdd,intel hd graphics 620,windows 10,2.05kg,31861.44
+hp,notebook,14,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.63kg,52640.64
+hp,notebook,13 1/3,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,1.32kg,37242.72
+hp,notebook,15 3/5,1366x768,amd a6-series 9220 2.5ghz,4gb,256gb ssd,amd radeon r4 graphics,windows 10,1.86kg,19660.32
+hp,ultrabook,12 1/2,ips panel 4k ultra hd / touchscreen 3840x2160,intel core m 6y75 1.2ghz,8gb,512gb ssd,intel hd graphics 515,windows 10,0.97kg,107305.92
+hp,ultrabook,14,full hd 1920x1080,intel core i5 7500u 2.7ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,1.48kg,57648.96
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,6gb,256gb ssd,amd radeon 520,windows 10,1.91kg,32980.32
+hp,notebook,13 1/3,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,4gb,500gb hdd,intel uhd graphics 620,windows 10,1.49kg,40173.12
+hp,notebook,17 1/3,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,6gb,2tb hdd,amd radeon 520,windows 10,2.71kg,37242.72
+hp,notebook,17 1/3,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,nvidia geforce 930mx,windows 10,2.5kg,49177.44
+hp,2 in 1 convertible,13 1/3,ips panel 4k ultra hd / touchscreen 3840x2160,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.29kg,79866.72
+hp,notebook,17 1/3,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,1tb hdd,nvidia geforce 930mx,windows 10,2.5kg,48697.92
+hp,notebook,13 1/3,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,512gb ssd,intel uhd graphics 620,windows 10,1.49kg,51095.52
+hp,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,3.35kg,73473.12
+hp,notebook,17 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,nvidia geforce 930mx,windows 10,2.5kg,55677.6
+hp,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,no os,2.1kg,18594.72
+hp,notebook,14,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,nvidia geforce 930mx,windows 10,1.63kg,54931.68
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,1tb hdd,intel uhd graphics 620,windows 10,2.1kg,42304.32
+hp,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,amd firepro w4190m,windows 10,1.9kg,67612.32
+hp,notebook,15 3/5,1366x768,amd e-series 9000e 1.5ghz,4gb,500gb hdd,amd radeon r2,windows 10,2.1kg,17582.4
+hp,notebook,15 3/5,touchscreen 1366x768,intel core i5 7200u 2.5ghz,8gb,1tb hdd,intel hd graphics 620,windows 10,2.04kg,29783.52
+hp,notebook,13 1/3,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,4gb,500gb hdd,intel uhd graphics 620,windows 10,1.49kg,35964
+hp,notebook,15 3/5,1366x768,amd a6-series a6-9220 2.5ghz,8gb,128gb ssd,amd radeon r4 graphics,windows 10,1.91kg,23757.552
+hp,notebook,17 1/3,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,16gb,1tb hdd,nvidia geforce mx150,windows 10,2.9kg,56423.52
+hp,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.1kg,38468.16
+hp,notebook,17 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,1tb hdd,nvidia geforce 930mx,windows 10,2.5kg,54239.04
+hp,notebook,17 1/3,1600x900,intel core i3 6006u 2ghz,8gb,1tb hdd,intel hd graphics 520,windows 10,2.54kg,26053.92
+hp,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i7 7600u 2.8ghz,16gb,256gb ssd,intel hd graphics 620,windows 10,1.28kg,105228
+hp,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,1tb hdd,intel hd graphics 520,windows 10,1.86kg,24988.32
+hp,2 in 1 convertible,13 1/3,ips panel 4k ultra hd / touchscreen 3840x2160,intel core i7 8550u 1.8ghz,16gb,1tb ssd,intel uhd graphics 620,windows 10,1.29kg,130482.72
+hp,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.95kg,52214.4
+hp,notebook,14,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.48kg,68837.76
+hp,notebook,15 3/5,ips panel full hd 1366x768,intel core i7 8550u 1.8ghz,8gb,1tb hdd,intel uhd graphics 620,windows 10,2.1kg,48058.56
+hp,ultrabook,12 1/2,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.26kg,71128.8
+hp,notebook,14,full hd 1920x1080,intel core i5 7300u 2.6ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.48kg,67559.04
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.84kg,60952.32
+hp,notebook,15 3/5,ips panel full hd 1920x1080,intel core i3 7100u 2.4ghz,8gb,1tb hdd,nvidia geforce 930mx,windows 10,2.1kg,38148.48
+hp,notebook,14,1366x768,intel celeron dual core n3060 1.6ghz,2gb,32gb flash storage,intel hd graphics 400,windows 10,1.44kg,14865.12
+hp,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.84kg,69477.12
+hp,workstation,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,nvidia quadro m1200,windows 10,2.6kg,92615.0256
+hp,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,1.86kg,23389.92
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,1tb hdd,intel hd graphics 620,windows 10,1.86kg,34045.92
+hp,notebook,15 3/5,1366x768,intel pentium quad core n3710 1.6ghz,8gb,2tb hdd,intel hd graphics 405,windows 10,2.04kg,20725.92
+hp,ultrabook,14,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.36kg,93240
+hp,notebook,15 3/5,full hd 1920x1080,amd a9-series 9420 3ghz,4gb,256gb ssd,amd radeon r5,windows 10,1.91kg,26053.3872
+hp,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,3.35kg,63456.48
+hp,ultrabook,15 3/5,full hd 1920x1080,amd a9-series 9420 3ghz,4gb,256gb ssd,amd radeon 520,windows 10,1.91kg,26586.72
+hp,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,1tb hdd,amd radeon 520,windows 10,2.1kg,24988.32
+hp,ultrabook,14,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.43kg,79920
+hp,notebook,15 3/5,full hd 1920x1080,intel core i7 7820hq 2.9ghz,8gb,256gb ssd,intel hd graphics 630,windows 10,2.31kg,76030.56
+hp,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,12gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,3.35kg,106506.72
+hp,notebook,15 3/5,1366x768,intel celeron dual core n3060 1.6ghz,4gb,500gb hdd,intel hd graphics 400,windows 10,2.1kg,18488.16
+hp,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.2kg,58554.72
+hp,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,128gb ssd,intel hd graphics 620,windows 10,1.91kg,31381.92
+hp,workstation,15 3/5,ips panel full hd 1920x1080,intel core i7 7820hq 2.9ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,2.31kg,81731.52
+hp,notebook,17 1/3,1600x900,intel core i3 6006u 2ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,2.5kg,34093.872
+hp,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,12gb,1tb hdd,nvidia geforce gtx 1060,windows 10,3.78kg,90522.72
+hp,2 in 1 convertible,13 1/3,ips panel 4k ultra hd / touchscreen 3840x2160,intel core i7 8550u 1.8ghz,8gb,512gb ssd,intel uhd graphics 620,windows 10,1.29kg,106506.72
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,500gb hdd,amd firepro w4190m,windows 10,1.9kg,61485.12
+hp,notebook,13 1/3,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,4gb,128gb ssd,intel uhd graphics 620,windows 10,1.49kg,38681.28
+hp,notebook,14,full hd 1920x1080,intel core i7 7600u 2.8ghz,8gb,1tb ssd,intel hd graphics 620,windows 10,1.48kg,93186.72
+hp,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,256gb ssd,amd radeon 520,windows 10,1.91kg,32979.7872
+hp,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.34kg,70489.44
+hp,notebook,15 3/5,touchscreen 1366x768,intel core i5 8250u 1.6ghz,4gb,1tb hdd,intel uhd graphics 620,windows 10,2.04kg,27783.9216
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,nvidia geforce 930mx,windows 10,2.04kg,47365.92
+hp,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.32kg,74538.72
+hp,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,1.63kg,36709.92
+hp,notebook,15 3/5,full hd 1920x1080,intel pentium quad core n3710 1.6ghz,4gb,256gb ssd,intel hd graphics 405,windows 10,1.86kg,21258.1872
+hp,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,12gb,1tb hdd,nvidia geforce gtx 1060,windows 10,2.62kg,95850.72
+hp,ultrabook,13 1/3,ips panel quad hd+ 3200x1800,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.34kg,61005.6
+hp,notebook,15 3/5,full hd 1920x1080,intel core i3 7100u 2.4ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,2.1kg,37589.04
+hp,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,1.86kg,21152.16
+hp,notebook,17 1/3,1600x900,intel core i3 6006u 2ghz,8gb,1tb hdd,intel hd graphics 520,windows 10,2.65kg,28992.312
+hp,notebook,17 1/3,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,nvidia geforce 930mx,windows 10,2.63kg,68198.4
+hp,notebook,15 3/5,ips panel full hd 1920x1080,amd a10-series a10-9620p 2.5ghz,6gb,128gb ssd,amd radeon 530,windows 10,1.91kg,30310.992
+hp,ultrabook,13 1/3,ips panel quad hd+ / touchscreen 3200x1800,intel core m 6y75 1.2ghz,16gb,512gb ssd,intel hd graphics 515,windows 10,1.16kg,104695.2
+hp,workstation,17 1/3,1600x900,intel core i5 7440hq 2.8ghz,8gb,500gb hdd,nvidia quadro m1200,windows 10,3.14kg,99153.5472
+hp,notebook,14,1366x768,intel pentium quad core n3710 1.6ghz,8gb,2tb hdd,intel hd graphics 405,windows 10,1.94kg,20725.92
+hp,notebook,15 3/5,ips panel full hd 1920x1080,amd a9-series a9-9420 3ghz,6gb,256gb ssd,amd radeon 530,windows 10,1.95kg,34578.72
+hp,notebook,13 1/3,full hd 1920x1080,intel core i3 7100u 2.4ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,1.49kg,38308.32
+hp,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,3.78kg,79813.44
+hp,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.84kg,64948.32
+hp,notebook,15 3/5,1366x768,intel core i3 7100u 2.4ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.1kg,35616.6144
+hp,ultrabook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.84kg,74005.92
+hp,notebook,14,1366x768,intel core i5 7300u 2.6ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2.31kg,59886.72
+hp,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 7,1.88kg,49656.96
+hp,notebook,17,1600x900,amd a9-series 9420 3ghz,8gb,1tb hdd,amd radeon r5,windows 10,2.6kg,27753.552
+hp,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,no os,1.86kg,19441.872
+hp,notebook,15 3/5,1920x1080,intel core i3 6006u 2ghz,6gb,1tb hdd,amd radeon r5 m430,windows 10,2.04kg,28717.92
+hp,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,amd radeon 530,windows 10,2.1kg,39693.6
+hp,2 in 1 convertible,14,ips panel full hd / touchscreen 1920x1080,intel core i3 7100u 2.4ghz,4gb,128gb ssd,nvidia geforce 940mx,windows 10,1.63kg,37242.72
+hp,2 in 1 convertible,11 3/5,touchscreen 1366x768,intel celeron dual core n3350 1.1ghz,8gb,64gb flash storage,intel hd graphics 500,chrome os,1.4kg,26373.6
+hp,notebook,17 1/3,ips panel full hd 1920x1080,intel core i3 6006u 2ghz,4gb,256gb ssd,amd radeon r5 520,windows 10,2.5kg,37242.72
+hp,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,amd radeon 520,windows 10,1.86kg,32639.8608
+hp,notebook,17 1/3,ips panel full hd 1920x1080,amd a10-series 9600p 2.4ghz,6gb,2tb hdd,amd radeon r7 m440,windows 10,2.65kg,30316.32
+hp,workstation,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,500gb hdd,nvidia quadro m1200,windows 10,3.14kg,101657.7072
+hp,notebook,17 1/3,ips panel full hd 1920x1080,amd a10-series 9620p 2.5ghz,6gb,2tb hdd,amd radeon 530,windows 10,2.71kg,34898.9328
+hp,notebook,17 1/3,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,nvidia geforce 930mx,windows 10,2.63kg,63936
+hp,2 in 1 convertible,13 1/3,ips panel touchscreen 1366x768,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.58kg,44574.048
+hp,notebook,15 3/5,full hd 1920x1080,amd a9-series 9420 3ghz,4gb,1tb hdd,amd radeon 520,windows 10,2.1kg,26053.92
+hp,notebook,15 3/5,full hd 1920x1080,amd a9-series a9-9420 3ghz,6gb,128gb ssd +  1tb hdd,amd radeon 520,windows 10,2.1kg,34632
+hp,workstation,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd,nvidia quadro m2200,windows 10,2.6kg,128884.32
+hp,workstation,17 1/3,ips panel full hd 1920x1080,intel xeon e3-1535m v5 2.9ghz,16gb,256gb ssd,nvidia quadro m2000m,windows 7,3kg,233845.92
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 6300u 2.4ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.84kg,101232
+hp,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.2kg,58554.72
+hp,workstation,15 3/5,full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,256gb ssd,nvidia quadro m1000m,windows 7,2.59kg,83170.08
+hp,workstation,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,nvidia quadro m2200,windows 10,3.14kg,110017.872
+hp,netbook,12 1/2,1366x768,intel core i5 7300u 2.6ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.26kg,74005.92
+hp,notebook,15 3/5,1366x768,amd a12-series 9700p 2.5ghz,8gb,2tb hdd,amd radeon r7 graphics,windows 10,2.04kg,33513.12
+hp,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,12gb,1tb hdd,amd radeon rx 580,windows 10,3.74kg,93186.72
+hp,netbook,11 3/5,1366x768,intel celeron dual core n3060 1.6ghz,4gb,16gb flash storage,intel hd graphics 400,chrome os,1.23kg,20512.8
+hp,notebook,17 1/3,1600x900,intel core i5 7200u 2.5ghz,8gb,1tb hdd,nvidia geforce 930mx,windows 10,2.63kg,48484.8
+hp,ultrabook,14,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,512gb ssd,intel hd graphics 520,windows 7,1.54kg,99633.6
+hp,2 in 1 convertible,11 3/5,touchscreen 1366x768,intel celeron dual core n3350 1.1ghz,4gb,32gb flash storage,intel hd graphics 500,chrome os,1.4kg,32767.2
+hp,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.28kg,121318.56
+hp,ultrabook,14,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,512gb ssd,intel hd graphics 520,windows 10,1.54kg,78215.04
+hp,notebook,15 3/5,1366x768,intel celeron dual core n3060 1.6ghz,4gb,128gb ssd,intel hd graphics 400,no os,1.86kg,15930.72
+hp,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i7 7600u 2.8ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.28kg,136343.52
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 7300u 2.6ghz,8gb,256gb ssd,amd radeon r7 m465,windows 10,1.84kg,71874.72
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.07kg,48484.8
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,2.04kg,44701.92
+hp,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,1.28kg,90576
+hp,2 in 1 convertible,15 3/5,touchscreen 1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.3kg,36486.144
+hp,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,1.28kg,95850.72
+hp,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,1.95kg,67399.2
+hp,2 in 1 convertible,13 1/3,quad hd+ / touchscreen 3200x1800,intel core i7 7500u 2.7ghz,16gb,256gb ssd,intel hd graphics 620,windows 10,1.42kg,74538.72
+hp,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,nvidia geforce 930mx,windows 10,2.04kg,47952
+hp,netbook,12 1/2,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.26kg,79014.24
+hp,ultrabook,12 1/2,4k ultra hd / touchscreen 3840x2160,intel core m 6y75 1.2ghz,8gb,240gb ssd,intel hd graphics 515,windows 10,1.09kg,165168
+hp,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,nvidia geforce 930mx,windows 10,2.04kg,54291.7872
+hp,notebook,13 1/3,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.49kg,51148.8
+hp,ultrabook,15 3/5,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,amd radeon r7 m365x,windows 10,1.84kg,69103.6272
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,2.31kg,62071.2
+hp,notebook,14,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,1.95kg,61218.72
+hp,ultrabook,12 1/2,full hd 1920x1080,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,1.26kg,84129.12
+hp,notebook,15 3/5,1366x768,intel celeron dual core n3060 1.6ghz,4gb,1tb hdd,intel hd graphics 400,no os,1.86kg,15392.592
+hp,netbook,12 1/2,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.26kg,88924.32
+hp,gaming,17 1/3,ips panel full hd 1920x1080,intel core i5 6300hq 2.3ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 965m,windows 10,2.75kg,74538.72
+hp,workstation,15 3/5,ips panel full hd 1920x1080,intel core i7 6820hq 2.7ghz,8gb,8gb ssd,nvidia quadro m1000m,windows 10,2.0kg,119826.72
+hp,2 in 1 convertible,11 3/5,touchscreen 1366x768,intel pentium quad core n4200 1.1ghz,4gb,256gb ssd,intel hd graphics 505,windows 10,1.45kg,41292
+hp,notebook,15 3/5,1366x768,intel core i5 7200u 2.50ghz,8gb,1tb hdd,nvidia geforce 930mx,windows 10,2.04kg,45101.52
+hp,notebook,15 3/5,full hd 1920x1080,intel core i3 7100u 2.4ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.04kg,36496.8
+hp,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 7200u 2.70ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce 930mx,windows 10,2.04kg,52161.12
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,1tb hdd,intel hd graphics 620,windows 10,2.04kg,42943.68
+hp,netbook,12 1/2,full hd 1920x1080,intel core m 6y75 1.2ghz,8gb,512gb ssd,intel hd graphics 515,windows 10,0.97kg,101658.24
+hp,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,128gb ssd +  1tb hdd,amd radeon 520,windows 10,2.1kg,26586.72
+hp,ultrabook,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.11kg,71874.72
+hp,ultrabook,14,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.48kg,111301.92
+hp,notebook,13 1/3,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.34kg,63349.92
+hp,notebook,14,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,1.64kg,41505.12
+hp,notebook,14,1366x768,intel core i5 6300u 2.4ghz,4gb,256gb ssd,intel hd graphics 520,windows 10,1.48kg,58607.4672
+hp,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,1.95kg,64202.4
+hp,ultrabook,14,full hd 1920x1080,intel core i7 6600u 2.6ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.43kg,77202.72
+hp,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,nvidia geforce 930mx,windows 10,1.64kg,55904.5728
+hp,notebook,14,1366x768,intel core i3 7100u 2.4ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,1.64kg,36443.52
+hp,ultrabook,12 1/2,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,1.26kg,81997.92
+hp,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,1.48kg,84715.2
+hp,ultrabook,14,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.54kg,100550.5488
+hp,notebook,13 1/3,1366x768,intel core i3 7100u 2.4ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,1.49kg,42624
+hp,notebook,15 3/5,1366x768,intel core i3 7100u 2.4ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,2.04kg,41025.0672
+hp,notebook,14,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.43kg,118761.12
+hp,notebook,13 1/3,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.11kg,61218.72
+hp,notebook,14,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,nvidia geforce 930mx,windows 10,1.64kg,63159.7104
+hp,ultrabook,12 1/2,1366x768,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,1.26kg,83063.52
+hp,notebook,14,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.31kg,63349.92
+hp,notebook,14,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,1.95kg,56476.8
+hp,notebook,17 1/3,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,nvidia geforce 930mx,windows 10,2.63kg,57542.4
+hp,notebook,14,1366x768,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,1.64kg,51841.44
+hp,notebook,14,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.95kg,63669.6
+hp,notebook,15 3/5,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.84kg,65480.5872
+hp,ultrabook,12 1/2,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.26kg,71874.72
+hp,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.04kg,39533.76
+hp,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.64kg,53839.9728
+hp,notebook,14,full hd 1920x1080,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,1.54kg,53280
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 6300u 2.4ghz,8gb,256gb ssd +  500gb hdd,intel hd graphics 520,windows 10,1.84kg,112065.9552
+hp,notebook,14,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.43kg,78268.32
+hp,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,nvidia geforce 940mx,windows 10,1.91kg,52161.12
+hp,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,2.04kg,52161.12
+hp,notebook,15 3/5,1366x768,intel core i3 6100u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.31kg,37570.392
+hp,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,no os,1.96kg,26586.72
+hp,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.31kg,63882.72
+hp,ultrabook,12 1/2,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.26kg,63882.72
+hp,notebook,13 1/3,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.49kg,58075.2
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 7,2.31kg,50083.2
+hp,ultrabook,13 1/3,ips panel 4k ultra hd 3840x2160,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.3kg,109170.72
+hp,notebook,14,full hd 1920x1080,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 7,1.54kg,54931.1472
+hp,workstation,15 3/5,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,amd firepro w4190m,windows 7,1.9kg,79653.6
+hp,notebook,13 1/3,quad hd+ 3200x1800,intel pentium dual core 4405y 1.5ghz,4gb,32gb flash storage,intel hd graphics 515,chrome os,1.29kg,32767.2
+hp,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,1tb hdd,intel hd graphics 520,no os,1.86kg,18434.3472
+hp,netbook,12 1/2,1366x768,intel core i5 6200u 2.3ghz,4gb,128gb ssd,intel hd graphics 520,windows 7,2.4kg,85194.72
+hp,notebook,15 3/5,1366x768,intel pentium quad core n3710 1.6ghz,4gb,1tb hdd,intel hd graphics 405,windows 10,1.96kg,26640
+hp,workstation,17 1/3,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,1tb hdd,amd firepro w6150m,windows 7,3.0kg,154458.72
+hp,notebook,15 3/5,full hd 1920x1080,amd a6-series 9220 2.5ghz,4gb,1tb hdd,amd radeon r4,windows 10,2.1kg,21205.44
+hp,notebook,13 1/3,quad hd+ / touchscreen 3200x1800,intel core m 6y54 1.1ghz,8gb,256gb ssd,intel hd graphics 515,windows 10,1.16kg,90522.72
+hp,ultrabook,13 1/3,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,512gb ssd,intel hd graphics 520,windows 10,1.16kg,104908.32
+hp,notebook,13 1/3,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.16kg,90043.2
+hp,notebook,14,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.43kg,80612.64
+hp,ultrabook,12 1/2,1366x768,intel core i5 6300u 2.4ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.26kg,100965.6
+hp,gaming,17 1/3,ips panel full hd 1920x1080,intel core i5 6300hq 2.3ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,3.35kg,60153.12
+hp,notebook,15 3/5,1366x768,intel core i7 7500u 2.7ghz,8gb,2tb hdd,intel hd graphics 620,windows 10,2.04kg,33513.12
+hp,ultrabook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.84kg,40066.56
+hp,workstation,17 1/3,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,256gb ssd,nvidia quadro m3000m,windows 7,3kg,210424.032
+hp,ultrabook,15 3/5,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.88kg,115709.2416
+hp,2 in 1 convertible,13 1/3,full hd / touchscreen 1920x1080,intel core i5 6300u 2.4ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.48kg,86793.12
+hp,workstation,15 3/5,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,256gb ssd,nvidia quadro m1000m,windows 7,2.59kg,118761.12
+hp,2 in 1 convertible,13 1/3,touchscreen 2560x1440,intel core i7 6600u 2.6ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.48kg,95850.72
+hp,workstation,15 3/5,full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,256gb ssd,nvidia quadro m1000m,windows 7,2.0kg,101178.72
+hp,ultrabook,12 1/2,full hd 1920x1080,intel core i7 6500u 2.50ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.26kg,122381.496
+hp,notebook,15 3/5,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.88kg,84129.12
+hp,notebook,15 3/5,1366x768,amd e-series 7110 1.8ghz,4gb,500gb hdd,amd radeon r2 graphics,windows 10,1.86kg,15824.16
+hp,notebook,15 3/5,full hd 1920x1080,amd a6-series a6-9220 2.5ghz,4gb,256gb ssd,amd radeon 520,windows 10,1.91kg,25515.2592
+hp,2 in 1 convertible,13 1/3,touchscreen 2560x1440,intel core i7 6600u 2.6ghz,8gb,512gb ssd,intel hd graphics 520,windows 10,1.48kg,108744.48
+hp,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1tb hdd,nvidia geforce gtx 1050,windows 10,2.62kg,47898.72
+hp,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,no os,2.1kg,25414.0272
+hp,notebook,14,1366x768,intel celeron dual core n3060 1.6ghz,2gb,32gb flash storage,intel hd graphics 400,windows 10,1.44kg,13266.72
+hp,notebook,15 3/5,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.96kg,36177.12
+hp,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,16gb,512gb ssd,intel uhd graphics 620,windows 10,2.1kg,61751.52
+hp,notebook,15 3/5,1366x768,intel core i3 6100u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.07kg,34632
+hp,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,6gb,1tb hdd,nvidia geforce gtx 960m,windows 10,2.18kg,42570.72
+hp,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,1.86kg,25840.8
+hp,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,12gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.21kg,70702.56
+hp,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.91kg,30849.12
+hp,notebook,15 3/5,full hd 1920x1080,amd a12-series 9720p 2.7ghz,6gb,1tb hdd,amd radeon 530,windows 10,2.1kg,28185.12
+hp,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,1tb hdd,intel hd graphics 520,windows 10,2.1kg,25467.84
+hp,ultrabook,14,2560x1440,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.54kg,117119.5632
+hp,notebook,14,full hd 1920x1080,intel core i5 6200u 2.3ghz,4gb,256gb ssd,intel hd graphics 520,windows 7,1.54kg,58607.4672
+hp,notebook,15 3/5,1366x768,amd a6-series 9220 2.5ghz,4gb,500gb hdd,amd radeon r4 graphics,windows 10,1.86kg,21258.72
+hp,notebook,15 3/5,full hd 1920x1080,amd a9-series 9410 2.9ghz,6gb,1.0tb hybrid,amd radeon r7 m440,windows 10,2.04kg,29303.4672
+hp,netbook,11 3/5,1366x768,intel celeron dual core n3060 1.6ghz,2gb,32gb flash storage,intel hd graphics 400,windows 10,1.17kg,11135.52
+hp,notebook,15 3/5,1366x768,intel core i7 6500u 2.5ghz,6gb,1tb hdd,amd radeon r5 m330,windows 10,2.19kg,40705.92
+huawei,ultrabook,13,ips panel full hd 2160x1440,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.05kg,71874.72
+huawei,ultrabook,13,ips panel full hd 2160x1440,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.05kg,79866.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i3 7100u 2.4ghz,8gb,1tb hdd,nvidia geforce 940mx,no os,2.2kg,26586.72
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.5kg,53226.72
+lenovo,notebook,14,1366x768,intel celeron dual core n3350 1.1ghz,4gb,64gb flash storage,intel hd graphics 500,windows 10,1.44kg,13266.72
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i3 7130u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,no os,1.7kg,31914.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,1tb hdd,intel hd graphics 620,windows 10,1.9kg,29250.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,2tb hdd,intel hd graphics 620,no os,2.2kg,27652.32
+lenovo,notebook,15 3/5,full hd 1920x1080,amd a6-series 9220 2.5ghz,4gb,128gb ssd,amd r4 graphics,windows 10,2.2kg,21258.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,1tb hdd,intel hd graphics 520,windows 10,1.85kg,22105.872
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.58kg,78854.4
+lenovo,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.37kg,74538.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,nvidia geforce 940mx,no os,2.2kg,33513.12
+lenovo,notebook,15 3/5,1366x768,intel celeron dual core n3350 1.1ghz,4gb,1tb hdd,intel hd graphics 500,no os,1.9kg,13445.7408
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,1tb hdd,nvidia geforce 920mx,no os,2.2kg,26586.72
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,amd radeon rx 550,windows 10,1.75kg,59461.5456
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,nvidia geforce gtx 1050m,no os,2.4kg,46300.32
+lenovo,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,1.9kg,26533.44
+lenovo,2 in 1 convertible,14,ips panel full hd / touchscreen 1920x1080,intel core i3 7100u 2.4ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,1.74kg,33513.12
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd,nvidia geforce gtx 1050 ti,windows 10,2.5kg,57489.12
+lenovo,notebook,15 3/5,1366x768,amd a6-series 9220 2.9ghz,4gb,500gb hdd,amd radeon r4 graphics,no os,2.2kg,16463.52
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,128gb ssd +  1tb hdd,amd r17m-m1-70,windows 10,1.90kg,43316.64
+lenovo,2 in 1 convertible,14,ips panel 4k ultra hd / touchscreen 3840x2160,intel core i7 8550u 1.8ghz,16gb,512gb ssd,intel uhd graphics 620,windows 10,1.4kg,98514.72
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,256gb ssd,nvidia geforce gtx 1050,no os,2.4kg,41505.12
+lenovo,notebook,17 1/3,1600x900,intel core i5 8250u 1.6ghz,8gb,256gb ssd,nvidia geforce mx150,no os,2.8kg,37189.44
+lenovo,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,2.1kg,26267.04
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,512gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,3.2kg,93186.72
+lenovo,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,512gb ssd,nvidia geforce gtx 1060,no os,2.4kg,74485.44
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,no os,2.2kg,29250.72
+lenovo,notebook,17 1/3,1600x900,intel core i5 7200u 2.5ghz,8gb,1tb hdd,nvidia geforce gtx 940mx,no os,2.8kg,31381.92
+lenovo,2 in 1 convertible,14,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.74kg,47898.72
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,3.2kg,79866.72
+lenovo,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,8gb,128gb ssd,intel hd graphics 520,windows 10,7.2kg,31381.92
+lenovo,2 in 1 convertible,14,ips panel full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.38kg,57489.12
+lenovo,2 in 1 convertible,14,ips panel full hd / touchscreen 1920x1080,intel core i7 8550u 1.8ghz,8gb,512gb ssd,intel uhd graphics 620,windows 10,1.37kg,98514.72
+lenovo,2 in 1 convertible,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i7 7700hq 2.8ghz,8gb,512gb ssd,nvidia geforce gtx 1050m,windows 10,2kg,90522.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,256gb ssd,intel hd graphics 520,no os,2.2kg,23656.32
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,2.05kg,46886.4
+lenovo,2 in 1 convertible,14,touchscreen 2560x1440,intel core i7 6600u 2.6ghz,16gb,512gb ssd,intel hd graphics 520,windows 10,1.36kg,133146.72
+lenovo,notebook,17 1/3,1600x900,intel core i3 6006u 2ghz,4gb,1tb hdd,intel hd graphics 520,windows 10,2.8kg,26053.92
+lenovo,notebook,17 1/3,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,2tb hdd,nvidia geforce mx150,no os,2.8kg,45234.72
+lenovo,notebook,17 1/3,1600x900,intel core i7 7500u 2.7ghz,6gb,128gb ssd +  1tb hdd,nvidia geforce 940mx,windows 10,2.8kg,45767.52
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,256gb ssd,nvidia geforce gtx 1050,windows 10,2.5kg,44169.12
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,6gb,256gb ssd,intel hd graphics 620,windows 10,2.2kg,30849.12
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 630,windows 10,1.95kg,58448.16
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.5kg,62817.12
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,nvidia geforce 940mx,no os,2.2kg,35112.0528
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,2.05kg,39373.92
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,1tb hdd,nvidia geforce gtx 1060,windows 10,3.2kg,69210.72
+lenovo,notebook,15 3/5,full hd 1920x1080,amd a10-series 9600p 2.4ghz,6gb,1tb hdd,amd radeon r5 430,windows 10,2.4kg,26586.72
+lenovo,notebook,17 1/3,1600x900,intel core i5 7200u 2.5ghz,6gb,1tb hdd,nvidia geforce gtx 940m,windows 10,5.8kg,34578.72
+lenovo,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,2tb hdd,nvidia geforce 940mx,no os,2.2kg,29250.72
+lenovo,notebook,15 3/5,1366x768,intel pentium quad core n4200 1.1ghz,4gb,1tb hdd,intel hd graphics 505,no os,2.2kg,19180.2672
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce 940mx,windows 10,2.3kg,43636.32
+lenovo,notebook,13 1/3,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.1kg,53226.72
+lenovo,notebook,13 1/3,1366x768,intel celeron dual core 3855u 1.6ghz,4gb,16gb flash storage,intel hd graphics 510,chrome os,1.45kg,24503.472
+lenovo,notebook,17 1/3,1600x900,intel core i5 7200u 2.5ghz,4gb,1tb hdd,nvidia geforce 920mx,windows 10,2.79kg,31381.92
+lenovo,notebook,14,1366x768,intel celeron dual core n3350 1.1ghz,4gb,32gb flash storage,intel hd graphics 500,windows 10,1.44kg,15557.76
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,1tb hdd,intel hd graphics 520,windows 10,1.85kg,23922.72
+lenovo,notebook,15 3/5,full hd 1920x1080,amd a12-series 9720p 3.6ghz,12gb,2tb hdd,amd radeon 530,windows 10,2.2kg,47898.72
+lenovo,2 in 1 convertible,14,ips panel 4k ultra hd / touchscreen 3840x2160,intel core i7 8550u 1.8ghz,16gb,512gb ssd,intel uhd graphics 620,windows 10,1.4kg,111834.72
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  2tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.4kg,60153.12
+lenovo,notebook,15 3/5,1366x768,intel celeron dual core n3350 1.1ghz,4gb,1tb hdd,intel hd graphics 500,no os,2.2kg,17155.6272
+lenovo,notebook,17 1/3,1600x900,intel core i5 7200u 2.5ghz,6gb,128gb ssd +  1tb hdd,nvidia geforce gtx 940mx,windows 10,2.8kg,38308.32
+lenovo,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,8gb,256gb ssd,nvidia geforce 920mx,no os,2.2kg,26586.72
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,no os,2.4kg,43103.52
+lenovo,notebook,17 1/3,1600x900,amd a8-series 7410 2.2ghz,4gb,128gb ssd,amd radeon r5,windows 10,2.6kg,26053.92
+lenovo,netbook,11 3/5,ips panel 1366x768,intel celeron quad core n3450 1.1ghz,4gb,128gb ssd,intel hd graphics 500,windows 10,1.59kg,29463.84
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,128gb ssd,intel hd graphics 520,no os,1.85kg,21498.48
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,nvidia geforce 940mx,windows 10,1.5kg,58554.72
+lenovo,ultrabook,14,ips panel 2560x1440,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.13kg,121584.96
+lenovo,notebook,13 1/3,ips panel full hd 1920x1080,intel core i3 7100u 2.4ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,1.5kg,29250.72
+lenovo,2 in 1 convertible,14,touchscreen 2560x1440,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.42kg,133679.52
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,amd radeon rx 550,windows 10,2.1kg,65510.9568
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.9kg,49976.64
+lenovo,ultrabook,14,ips panel 2560x1440,intel core i7 7500u 2.7ghz,16gb,1tb ssd,intel hd graphics 620,windows 10,1.13kg,139860
+lenovo,notebook,15 3/5,1366x768,intel celeron dual core n3350 1.1ghz,4gb,1tb hdd,intel hd graphics 500,windows 10,2.2kg,16303.68
+lenovo,notebook,25 3/5,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd +  1tb hdd,amd radeon rx 550,windows 10,2.1kg,60978.96
+lenovo,notebook,35 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.2kg,21791.52
+lenovo,notebook,11 3/5,1366x768,intel celeron dual core n3350 1.1ghz,2gb,32gb flash storage,intel hd graphics 500,windows 10,1.15kg,16221.096
+lenovo,workstation,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,512gb ssd,nvidia quadro m1200,windows 10,2.67kg,102564
+lenovo,ultrabook,14,ips panel full hd 2560x1440,intel core i7 7700hq 2.8ghz,8gb,512gb ssd,nvidia geforce gt 940mx,windows 10,1.7kg,103523.04
+lenovo,ultrabook,14,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,amd radeon rx 550,windows 10,1.75kg,64755.4464
+lenovo,2 in 1 convertible,15 3/5,ips panel 4k ultra hd / touchscreen 3840x2160,intel core i7 7700hq 2.8ghz,16gb,512gb ssd,nvidia geforce gtx 1050,windows 10,2kg,101178.72
+lenovo,notebook,13 1/3,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.4kg,53812.8
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i3 7130u 2.7ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,1.7kg,31914.72
+lenovo,workstation,15 3/5,ips panel 4k ultra hd 3840x2160,intel core i7 7600u 2.8ghz,16gb,512gb ssd,nvidia geforce 940mx,windows 10,2.3kg,130269.6
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 7820hq 2.9ghz,16gb,512gb ssd,nvidia quadro m2200m,windows 10,2.5kg,130482.72
+lenovo,ultrabook,24,2560x1440,intel core i7 7500u 2.7ghz,24gb,512gb ssd,intel hd graphics 620,windows 10,1.32kg,126912.96
+lenovo,notebook,17 1/3,1600x900,amd a6-series 9220 2.5ghz,8gb,1tb hdd,amd radeon r4,windows 10,2.8kg,27652.32
+lenovo,ultrabook,12 1/2,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.36kg,76137.12
+lenovo,notebook,15 3/5,full hd 1920x1080,intel pentium quad core n4200 1.1ghz,4gb,128gb ssd,intel hd graphics 505,windows 10,2.2kg,18594.72
+lenovo,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.65kg,71661.6
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,512gb ssd,amd radeon r7 m460,no os,1.5kg,42570.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 7820hq 2.9ghz,8gb,256gb ssd,nvidia quadro m2200m,windows 10,2.67kg,111355.2
+lenovo,ultrabook,14,ips panel quad hd+ 2560x1440,intel core i7 6600u 2.6ghz,12gb,256gb ssd,intel hd graphics 520,windows 10,1.4kg,98994.24
+lenovo,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,180gb ssd,intel hd graphics 620,windows 10,1.7kg,72673.92
+lenovo,notebook,15 3/5,1366x768,intel core i3 6006u 2.0ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,2.3kg,30103.2
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.75kg,55890.72
+lenovo,ultrabook,12 1/2,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.36kg,95797.44
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,nvidia geforce 940mx,windows 10,2.3kg,53918.8272
+lenovo,ultrabook,12 1/2,ips panel 1366x768,intel core i5 6200u 2.3ghz,8gb,180gb ssd,intel hd graphics 520,windows 10,1.3kg,58554.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,2.17kg,47893.392
+lenovo,notebook,13 1/3,ips panel full hd 1920x1080,intel core i3 7100u 2.4ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.4kg,50562.72
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2.3kg,48538.08
+lenovo,2 in 1 convertible,14,ips panel full hd / touchscreen 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,intel uhd graphics 620,windows 10,1.4kg,85194.72
+lenovo,notebook,14,1366x768,intel celeron dual core n3350 1.1ghz,4gb,500gb hdd,intel hd graphics 500,windows 10,2.1kg,15930.72
+lenovo,netbook,11 3/5,1366x768,intel celeron dual core n3060 1.6ghz,4gb,16gb ssd,intel hd graphics 400,chrome os,1.25kg,14119.2
+lenovo,notebook,13 1/3,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.44kg,50562.72
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,no os,2.4kg,61218.72
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,3.2kg,74538.72
+lenovo,notebook,24,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,2.02kg,71395.2
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,4gb,1tb hdd,nvidia geforce 920mx,windows 10,2.2kg,42570.72
+lenovo,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,8gb,2tb hdd,nvidia geforce 920mx,no os,2.2kg,24455.52
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,nvidia geforce 940mx,windows 10,1.87kg,45767.52
+lenovo,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,1.87kg,41824.8
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 6200u 2.3ghz,4gb,1tb hdd,intel hd graphics 520,no os,2.15kg,24634.008
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.99kg,92121.12
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,2.2kg,26586.72
+lenovo,notebook,17 1/3,1600x900,intel core i7 7500u 2.7ghz,6gb,128gb ssd +  1tb hdd,nvidia geforce 940mx,windows 10,2.8kg,50562.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i3 7130u 2.7ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,2.05kg,33566.4
+lenovo,notebook,17 1/3,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,nvidia quadro m620m,windows 10,3.4kg,159786.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel pentium quad core n4200 1.1ghz,4gb,500gb hdd,intel hd graphics 505,windows 10,2.2kg,18328.32
+lenovo,notebook,14,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.02kg,52747.2
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2.3kg,44222.4
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.05kg,36496.8
+lenovo,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6820hk 2.7ghz,32gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.6kg,141884.64
+lenovo,ultrabook,14,ips panel full hd 1920x1080,intel core i7 6600u 2.6ghz,12gb,256gb ssd,intel hd graphics 520,windows 10,8.4kg,89137.44
+lenovo,notebook,15 3/5,touchscreen 1366x768,intel core i7 8550u 1.8ghz,12gb,1tb hdd,intel hd graphics 620,windows 10,2.2kg,32447.52
+lenovo,notebook,15 3/5,full hd 1920x1080,amd a12-series 9720p 3.6ghz,12gb,512gb ssd,amd radeon 530,windows 10,2.2kg,50562.72
+lenovo,notebook,17 1/3,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,no os,2.8kg,28185.12
+lenovo,notebook,15 3/5,1366x768,intel core i3 6100u 2.3ghz,8gb,1tb hdd,intel hd graphics 520,windows 10,2.29kg,24455.52
+lenovo,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.37kg,107892
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,256gb ssd,intel hd graphics 630,windows 10,1.7kg,78534.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,6gb,1tb hdd,intel hd graphics 620,windows 10,2.4kg,30049.92
+lenovo,2 in 1 convertible,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,intel hd graphics 630,windows 10,2kg,69210.72
+lenovo,notebook,15 3/5,ips panel 4k ultra hd 3840x2160,intel xeon e3-1535m v6 3.1ghz,32gb,1tb ssd,nvidia quadro m2200m,windows 10,2.5kg,261018.72
+lenovo,notebook,14,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.65kg,78055.2
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,128gb ssd,intel hd graphics 620,no os,2.2kg,24935.04
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 8250u 1.6ghz,4gb,256gb ssd,intel uhd graphics 620,windows 10,1.8kg,44169.12
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,1tb hdd,nvidia geforce 920mx,windows 10,2.2kg,30849.12
+lenovo,notebook,14,1366x768,intel celeron dual core n3060 1.6ghz,2gb,32gb flash storage,intel hd graphics 400,windows 10,1.42kg,13266.72
+lenovo,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.37kg,93635.3376
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050m,windows 10,2.5kg,59087.52
+lenovo,ultrabook,14,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.14kg,130536
+lenovo,notebook,14,1366x768,intel celeron dual core n3060 1.6ghz,4gb,32gb flash storage,intel hd graphics,windows 10,1.43kg,14598.72
+lenovo,ultrabook,12 1/2,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.36kg,84395.52
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 960,windows 10,3.31kg,63722.88
+lenovo,notebook,15 3/5,1366x768,intel celeron dual core n3350 1.1ghz,4gb,500gb hdd,intel hd graphics 500,windows 10,2.2kg,22324.32
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.2kg,28504.8
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,128gb ssd +  1tb hdd,amd radeon r5 m430,windows 10,1.90kg,43580.376
+lenovo,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.3kg,55091.52
+lenovo,notebook,35 3/5,1366x768,amd e-series e2-9000 2.2ghz,4gb,128gb ssd,amd radeon r2 graphics,windows 10,2.2kg,18594.72
+lenovo,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i7 8550u 1.8ghz,8gb,512gb ssd,intel uhd graphics 620,windows 10,1.19kg,79866.72
+lenovo,notebook,15 3/5,1366x768,intel celeron dual core 3855u 1.6ghz,4gb,500gb hdd,intel hd graphics 510,windows 10,2.1kg,16943.04
+lenovo,notebook,14,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,256gb ssd,intel hd graphics 620,windows 10,1.7kg,37242.72
+lenovo,2 in 1 convertible,14,touchscreen 2560x1440,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.42kg,137995.2
+lenovo,2 in 1 convertible,14,full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.38kg,93186.72
+lenovo,notebook,15 3/5,full hd 1920x1080,amd a9-series 9420 2.9ghz,4gb,256gb ssd,amd radeon 530,windows 10,2.2kg,21258.72
+lenovo,notebook,15 3/5,1366x768,amd a12-series 9720p 3.6ghz,8gb,1tb hdd,amd radeon r7,windows 10,2.2kg,22857.12
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,1tb hdd +  1tb hdd,intel hd graphics 620,windows 10,2.1kg,33110.856
+lenovo,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,no os,1.90kg,23976
+lenovo,workstation,15 3/5,full hd 1920x1080,intel core i7 6500u 2.5ghz,16gb,512gb ssd,nvidia quadro m520m,windows 7,2.18kg,98834.4
+lenovo,notebook,14,full hd 1920x1080,intel core i5 6300hq 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.8kg,63456.48
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.5kg,66546.72
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,nvidia geforce 920mx,windows 10,1.87kg,45664.6896
+lenovo,notebook,15 3/5,1366x768,amd a6-series 7310 2ghz,4gb,500gb hdd,amd radeon r4,windows 10,2.19kg,15877.44
+lenovo,ultrabook,14,ips panel quad hd+ 2560x1440,intel core i7 6500u 2.5ghz,64gb,512gb ssd,intel hd graphics 520,windows 10,1.17kg,89864.1792
+lenovo,ultrabook,14,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.32kg,79866.72
+lenovo,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,1tb hdd,intel hd graphics 620,no os,1.9kg,26101.872
+lenovo,notebook,13 1/3,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.44kg,51148.8
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,4gb,1tb hdd,intel hd graphics 620,windows 10,1.85kg,41505.12
+lenovo,2 in 1 convertible,14,full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.7kg,53226.72
+lenovo,workstation,15 3/5,ips panel 4k ultra hd 3840x2160,intel core i7 7600u 2.8ghz,16gb,1tb ssd,nvidia quadro m520m,windows 10,2.5kg,175770.72
+lenovo,netbook,11 3/5,touchscreen 1366x768,intel celeron dual core n3060 1.6ghz,4gb,128gb ssd,intel hd graphics 400,windows 10,1.4kg,25308
+lenovo,2 in 1 convertible,13 1/3,ips panel quad hd+ / touchscreen 3200x1800,intel core i5 6260u 1.8ghz,8gb,256gb ssd,intel hd graphics 540,windows 10,1.3kg,63882.72
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.5kg,55837.44
+lenovo,notebook,15 3/5,4k ultra hd 3840x2160,intel core i7 6820hq 2.7ghz,16gb,512gb ssd,nvidia quadro m2000m,windows 7,2.5kg,126273.6
+lenovo,notebook,15 3/5,1366x768,intel celeron quad core n3710 1.6ghz,8gb,1tb hdd,intel hd graphics 405,no os,2.2kg,17529.12
+lenovo,ultrabook,14,full hd 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.7kg,122490.72
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,4gb,1tb hdd,nvidia geforce gtx 1050,windows 10,2.4kg,53226.72
+lenovo,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.37kg,104961.6
+lenovo,2 in 1 convertible,15 3/5,full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,amd radeon r7 m460,windows 10,2.08kg,51095.52
+lenovo,2 in 1 convertible,14,ips panel touchscreen 2560x1440,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.42kg,124142.4
+lenovo,2 in 1 convertible,14,ips panel full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.38kg,71874.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,1tb hdd,nvidia geforce 920m,windows 10,2.4kg,32447.52
+lenovo,ultrabook,14,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.32kg,99047.52
+lenovo,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.1kg,26101.872
+lenovo,ultrabook,14,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.13kg,133146.72
+lenovo,ultrabook,14,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb flash storage,intel hd graphics 620,windows 10,1.13kg,99900
+lenovo,ultrabook,14,ips panel quad hd+ 2560x1440,intel core i7 6600u 2.6ghz,16gb,512gb ssd,intel hd graphics 520,windows 10,1.1kg,111834.72
+lenovo,notebook,14,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.7kg,63190.08
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i5 7300u 2.6ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.32kg,87912
+lenovo,notebook,14,1366x768,intel celeron quad core n3160 1.6ghz,4gb,16gb flash storage,intel hd graphics 400,chrome os,1.5kg,17316
+lenovo,ultrabook,14,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,nvidia geforce gt 940mx,windows 10,1.96kg,101391.84
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2.0ghz,4gb,1tb hdd,intel hd graphics 520,no os,2.2kg,24988.32
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,1tb hdd,intel hd graphics 620,windows 10,2.3kg,45323.1648
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,1tb hdd,nvidia geforce gtx 1050,no os,2.5kg,54185.76
+lenovo,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.37kg,103896
+lenovo,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.38kg,56210.4
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,1tb hdd,amd radeon r5 m430,no os,2.2kg,25521.12
+lenovo,notebook,13 1/3,ips panel full hd 1920x1080,intel core i3 7100u 2.4ghz,4gb,180gb ssd,intel hd graphics 620,windows 10,1.44kg,39160.8
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,1tb hdd,nvidia geforce 940mx,windows 10,2.2kg,35644.32
+lenovo,notebook,17 1/3,1600x900,amd a4-series 7210 2.2ghz,4gb,500gb hdd,amd radeon r3,windows 10,2.8kg,20193.12
+lenovo,ultrabook,14,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.32kg,95850.72
+lenovo,ultrabook,14,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb flash storage,intel hd graphics 620,windows 10,1.13kg,109170.72
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.95kg,104588.1072
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 6300hq 2.3ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,windows 10,2.6kg,42037.92
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,6gb,256gb ssd,nvidia geforce 940mx,windows 10,2.2kg,42037.92
+lenovo,notebook,13 1/3,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,1.44kg,46939.68
+lenovo,2 in 1 convertible,13 1/3,ips panel full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.37kg,97236
+lenovo,ultrabook,12 1/2,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.36kg,87912
+lenovo,notebook,15 3/5,1366x768,intel pentium quad core n4200 1.1ghz,4gb,1tb hdd,intel hd graphics 505,windows 10,2.2kg,16463.52
+lenovo,2 in 1 convertible,13 1/3,ips panel quad hd+ / touchscreen 3200x1800,intel core i7 6560u 2.2ghz,16gb,1tb ssd,intel iris graphics 540,windows 10,1.3kg,95850.72
+lenovo,2 in 1 convertible,11 1/3,ips panel full hd / touchscreen 1920x1080,intel core m m7-6y75 1.2ghz,8gb,256gb ssd,intel hd graphics 515,windows 10,1.1kg,69210.72
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,amd fx 8800p 2.1ghz,16gb,512gb ssd +  1tb hdd,amd radeon r9 m385,windows 10,2.5kg,53226.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,nvidia geforce 920mx,no os,2.2kg,36496.8
+lenovo,ultrabook,14,ips panel full hd 1920x1080,intel core i7 6600u 2.6ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.7kg,79333.3872
+lenovo,ultrabook,12 1/2,ips panel full hd 1920x1080,intel core i5 7300u 2.6ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.36kg,93772.8
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 7200u 2.5ghz,6gb,256gb ssd,nvidia geforce 920mx,windows 10,2.4kg,37029.6
+lenovo,notebook,14,1366x768,intel core i5 6200u 2.3ghz,4gb,508gb hybrid,intel hd graphics 520,windows 7,1.70kg,53386.56
+lenovo,notebook,15 3/5,full hd 1920x1080,amd a12-series 9720p 3.6ghz,6gb,256gb ssd,amd radeon 530,windows 10,2.2kg,29250.72
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.5kg,63349.92
+lenovo,notebook,15 3/5,1366x768,intel celeron dual core n3350 1.1ghz,4gb,128gb ssd,intel hd graphics 500,no os,1.9kg,14418.6336
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,2.3kg,71874.72
+lenovo,notebook,17 1/3,ips panel 4k ultra hd 3840x2160,intel core i7 6820hq 2.7ghz,16gb,512gb ssd,nvidia quadro 3000m,windows 7,2.4kg,158135.04
+lenovo,2 in 1 convertible,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i7 6500u 2.5ghz,4gb,256gb ssd,intel hd graphics 520,windows 10,1.8kg,45128.16
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,2.3kg,55922.688
+lenovo,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 980m,windows 10,4.6kg,122010.6672
+lenovo,notebook,14,ips panel 2560x1440,intel core i7 6600u 2.6ghz,16gb,256gb ssd,intel hd graphics 520,windows 7,1.1kg,139593.6
+lenovo,ultrabook,12 1/2,ips panel full hd / touchscreen 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.3kg,91294.7472
+lenovo,notebook,17 1/3,1600x900,intel core i5 6200u 2.3ghz,8gb,1.0tb hdd,amd radeon r5 m330,windows 10,3.0kg,35111.52
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 6300hq 2.3ghz,4gb,1tb hdd,nvidia geforce gtx 950m,windows 10,2.3kg,52054.56
+lenovo,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.1kg,28771.2
+lenovo,ultrabook,12 1/2,ips panel touchscreen 2560x1440,intel core m 6y75 1.2ghz,8gb,512gb ssd,intel hd graphics 515,windows 10,0.99kg,74538.72
+lenovo,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6820hk 2.7ghz,32gb,512gb ssd +  1.0tb hybrid,nvidia geforce gtx 980m,windows 10,4.6kg,172627.2
+lenovo,2 in 1 convertible,10,ips panel touchscreen 1920x1200,intel atom x5-z8550 1.44ghz,4gb,64gb flash storage,intel hd graphics 400,windows 10,0.69kg,34433.2656
+lenovo,notebook,14,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,180gb ssd,intel hd graphics 520,windows 7,1.7kg,63882.72
+lenovo,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,512gb ssd,nvidia geforce gtx 1050 ti,windows 10,2.4kg,63882.72
+lenovo,2 in 1 convertible,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i5 6200u 2.3ghz,4gb,256gb ssd,intel hd graphics 520,windows 10,2.1kg,46193.76
+lenovo,notebook,15 3/5,1366x768,intel core i3 6006u 2.0ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,2.1kg,22857.12
+lenovo,2 in 1 convertible,10,ips panel touchscreen 1920x1200,intel atom x5-z8550 1.44ghz,4gb,64gb flash storage,intel hd graphics 400,android,0.69kg,29250.72
+lenovo,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6820hk 2.7ghz,16gb,256gb ssd +  1.0tb hybrid,nvidia geforce gtx 980m,windows 10,4.6kg,146519.4672
+lenovo,2 in 1 convertible,14,ips panel full hd / touchscreen 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.8kg,88924.32
+lenovo,2 in 1 convertible,10,ips panel touchscreen 1920x1200,intel atom x5-z8550 1.44ghz,4gb,64gb flash storage,intel hd graphics 400,windows 10,0.69kg,25521.12
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,no os,2.4kg,52693.92
+lenovo,2 in 1 convertible,14,ips panel full hd / touchscreen 1920x1080,intel core i7 6600u 2.6ghz,8gb,512gb ssd,nvidia quadro m500m,windows 7,1.8kg,109244.2464
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 6500u 2.5ghz,16gb,1.0tb hybrid,amd radeon r7 m360,windows 10,2.5kg,58554.72
+lenovo,2 in 1 convertible,14,ips panel touchscreen 2560x1440,intel core i7 6600u 2.6ghz,16gb,512gb ssd,intel hd graphics 520,windows 10,2.8kg,130003.2
+lenovo,2 in 1 convertible,14,ips panel touchscreen 2560x1440,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.27kg,124621.92
+lenovo,notebook,15 3/5,1366x768,intel core i3 6006u 2.0ghz,4gb,1tb hdd,intel hd graphics 520,no os,1.9kg,18061.92
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,1tb hdd,amd radeon r5 m330,no os,2.32kg,31914.72
+lenovo,ultrabook,14,full hd 1920x1080,intel core i7 6600u 2.6ghz,12gb,512gb ssd,intel hd graphics 520,windows 7,1.4kg,122490.72
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,1.0tb hybrid,amd radeon r5 m330,windows 10,2.5kg,42010.7472
+lenovo,ultrabook,14,full hd 1920x1080,intel core i7 6600u 2.6ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.7kg,79866.72
+lenovo,notebook,15 3/5,1366x768,intel core i3 6006u 2.0ghz,8gb,1tb hdd,intel hd graphics 520,windows 10,2.2kg,24455.52
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.95kg,74059.2
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i3 6006u 2ghz,4gb,1tb hdd,nvidia geforce 920mx,windows 10,2.2kg,24935.04
+lenovo,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,no os,2.1kg,21205.44
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,nvidia geforce 940mx,no os,2.2kg,37775.52
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 6500u 2.5ghz,4gb,1.0tb hybrid,intel hd graphics 520,windows 7,2.32kg,43956
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,512gb ssd,nvidia geforce gtx 960,windows 10,3.31kg,69530.4
+lenovo,2 in 1 convertible,14,ips panel touchscreen 2560x1440,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.36kg,87219.36
+lenovo,ultrabook,15 3/5,full hd 1920x1080,intel core i7 7500u 2.7ghz,6gb,256gb ssd,nvidia geforce 920m,windows 10,1.54kg,44275.68
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,1tb hdd,nvidia geforce gtx 1050,windows 10,2.4kg,43636.32
+lenovo,notebook,15 3/5,1366x768,intel core i3 6006u 2ghz,4gb,1tb hdd,amd radeon r5 m430,no os,1.9kg,19607.04
+lenovo,notebook,15 3/5,1366x768,intel core i7 6500u 2.5ghz,8gb,500gb hdd,nvidia geforce 920mx,no os,2.2kg,33513.12
+lenovo,notebook,15 3/5,1366x768,amd e-series 9000 2.2ghz,4gb,500gb hdd,amd radeon r2 graphics,windows 10,2.2kg,15930.72
+lenovo,notebook,17 1/3,1600x900,intel core i5 7200u 2.5ghz,8gb,1tb hdd,intel hd graphics 620,no os,2.8kg,28717.92
+lenovo,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 960<u+039c>,windows 10,2.6kg,67772.16
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 6600u 2.6ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,2.3kg,81465.12
+lenovo,gaming,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i7 6700hq 2.6ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,windows 10,2.6kg,54825.12
+lenovo,netbook,12 1/2,ips panel full hd / touchscreen 1920x1080,intel core i7 6500u 2.50ghz,16gb,512gb ssd,intel hd graphics 520,windows 10,1.3kg,87912
+lenovo,notebook,13 1/3,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.4kg,79866.72
+lenovo,notebook,15 3/5,full hd 1920x1080,amd a12-series 9720p 3.6ghz,6gb,256gb ssd,amd radeon 530,windows 10,2.2kg,31838.5296
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,no os,2.3kg,30529.44
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i3 6100u 2.3ghz,6gb,128gb ssd,nvidia geforce 920mx,windows 10,2.4kg,30316.32
+lenovo,notebook,14,ips panel full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.9kg,57116.16
+lenovo,notebook,15 3/5,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,1.0tb hybrid,amd radeon r5 m330,windows 7,2.32kg,47685.6
+lenovo,2 in 1 convertible,14,full hd / touchscreen 1920x1080,intel core i5 6200u 2.3ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,1.8kg,44382.7728
+lenovo,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,1tb hdd,nvidia geforce gtx 960m,windows 10,2.6kg,47898.72
+lenovo,2 in 1 convertible,14,ips panel full hd / touchscreen 1920x1080,intel core i7 6500u 2.5ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,1.8kg,33992.64
+lenovo,2 in 1 convertible,13 1/3,ips panel quad hd+ / touchscreen 3200x1800,intel core i7 6500u 2.5ghz,16gb,512gb ssd,intel hd graphics 520,windows 10,1.3kg,79866.72
+lenovo,notebook,14,1366x768,intel celeron dual core n3050 1.6ghz,2gb,64gb flash storage,intel hd graphics,windows 10,1.5kg,12201.12
+lg,ultrabook,15 3/5,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.09kg,122490.72
+lg,ultrabook,15 3/5,ips panel full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.08kg,111834.72
+lg,ultrabook,14,ips panel full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,0.98kg,101178.72
+mediacom,2 in 1 convertible,11 3/5,ips panel full hd / touchscreen 1920x1080,intel celeron dual core n3350 1.1ghz,4gb,32gb ssd,intel hd graphics 500,windows 10,1.16kg,15930.72
+mediacom,notebook,13 1/3,ips panel full hd 1920x1080,intel celeron quad core n3450 1.1ghz,4gb,32gb ssd,intel hd graphics 500,windows 10,1.2kg,19660.32
+mediacom,notebook,13 1/3,ips panel full hd 1920x1080,intel atom x5-z8350 1.44ghz,4gb,32gb flash storage,intel hd graphics,windows 10,1.35kg,13586.4
+mediacom,notebook,14,full hd 1920x1080,intel atom x5-z8350 1.44ghz,4gb,32gb ssd,intel hd graphics,windows 10,1.4kg,13266.72
+mediacom,notebook,14,ips panel full hd 1920x1080,intel celeron quad core n3450 1.1ghz,4gb,32gb ssd,intel hd graphics 500,windows 10,1.45kg,20725.92
+mediacom,notebook,14,full hd 1920x1080,intel atom x5-z8350 1.44ghz,2gb,32gb flash storage,intel hd graphics,windows 10,1.4kg,12733.92
+mediacom,notebook,14,ips panel full hd 1920x1200,intel atom z8350 1.92ghz,4gb,32gb hdd,intel hd graphics 400,windows 10,1.4kg,14119.2
+microsoft,ultrabook,13 1/2,touchscreen 2256x1504,intel core i5 7200u 2.5ghz,4gb,128gb ssd,intel hd graphics 620,windows 10 s,1.252kg,58021.92
+microsoft,ultrabook,13 1/2,touchscreen 2256x1504,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10 s,1.252kg,71395.2
+microsoft,ultrabook,13 1/2,touchscreen 2256x1504,intel core i7 7660u 2.5ghz,16gb,512gb ssd,intel iris plus graphics 640,windows 10 s,1.25kg,137941.92
+microsoft,ultrabook,13 1/2,touchscreen 2256x1504,intel core m m3-7y30 2.2ghz,4gb,128gb ssd,intel hd graphics 615,windows 10 s,1.252kg,52693.92
+microsoft,ultrabook,33 1/2,touchscreen 2256x1504,intel core i7 7660u 2.5ghz,8gb,256gb ssd,intel iris plus graphics 640,windows 10 s,1.25kg,95850.72
+microsoft,ultrabook,13 1/2,touchscreen 2256x1504,intel core i7 7600u 2.8ghz,8gb,256gb ssd,intel iris plus graphics 640,windows 10 s,1.252kg,99519.048
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  2tb hdd,nvidia geforce gtx 1070,windows 10,2.43kg,130482.72
+msi,gaming,17 1/3,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.7kg,58341.6
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.2kg,69210.72
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  2tb hdd,nvidia geforce gtx 1070,windows 10,1.8kg,119427.12
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.8kg,100699.2
+msi,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.4kg,95850.72
+msi,gaming,18 2/5,full hd 1920x1080,intel core i7 6920hq 2.9ghz,32gb,512gb ssd +  1tb hdd,nvidia gtx 980 sli,windows 10,4.4kg,149130.72
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,512gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.14kg,133146.72
+msi,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,2.8kg,111834.72
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.7kg,63882.72
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.7kg,75071.52
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,256gb ssd,nvidia geforce gtx 1050 ti,windows 10,2.7kg,71874.72
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,2.8kg,119826.72
+msi,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,256gb ssd,nvidia geforce gtx 1050,windows 10,2.2kg,54757.9872
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7820hk 2.9ghz,16gb,512gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,4.14kg,145401.12
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 6820hk 2.7ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 980m,windows 10,4.5kg,125154.72
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 6820hk 2.7ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 970m,windows 10,4.14kg,117162.72
+msi,gaming,15 3/5,4k ultra hd 3840x2160,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  2tb hdd,nvidia geforce gtx 1060,windows 10,1.8kg,122490.72
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,2.94kg,120831.5808
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.2kg,63499.104
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.7kg,79215.1056
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.4kg,68944.32
+msi,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,256gb ssd,nvidia geforce gtx 1050,windows 10,2.2kg,53168.112
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.7kg,71847.0144
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,1.8kg,111593.8944
+msi,gaming,14,ips panel full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,1.6kg,100752.48
+msi,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.2kg,58021.92
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,512gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,2.9kg,128671.2
+msi,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,256gb ssd,nvidia geforce gtx 1050,windows 10,2.4kg,63882.72
+msi,gaming,17 1/3,ips panel 4k ultra hd 3840x2160,intel core i7 6700hq 2.6ghz,16gb,512gb ssd +  2tb hdd,nvidia geforce gtx 1060,windows 10,2.43kg,141138.72
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.7kg,85194.72
+msi,gaming,15 3/5,full hd 1920x1080,intel core i5 7300hq 2.5ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.2kg,59668.8048
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.2kg,63882.72
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.7kg,63499.104
+msi,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6820hk 2.7ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 980m,windows 10,3.78kg,82351.6992
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.94kg,96916.32
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,1.8kg,102777.12
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,windows 10,3.78kg,133146.72
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,256gb ssd,nvidia geforce gtx 965m,windows 10,2.6kg,85194.72
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,windows 10,2.9kg,80516.2032
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 6820hq 2.7ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 980m,windows 10,3.78kg,127818.72
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.4kg,60888.384
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,windows 10,2.7kg,79536.384
+msi,gaming,14,full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 970m,windows 10,1.7kg,94252.32
+msi,gaming,15 3/5,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,1tb hdd,nvidia geforce gtx 1050,windows 10,2.2kg,44701.92
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 970m,windows 10,1.91kg,114731.5536
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.43kg,109165.392
+msi,gaming,17 1/3,ips panel full hd 1920x1080,intel core i7 6700hq 2.6ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.43kg,103842.1872
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.2kg,78647.1408
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.2kg,61218.72
+msi,gaming,17 1/3,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,windows 10,2.7kg,85141.44
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,windows 10,2.3kg,62284.32
+msi,gaming,15 3/5,full hd 1920x1080,intel core i7 6700hq 2.6ghz,8gb,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,windows 10,2.4kg,65481.12
+razer,gaming,17 1/3,4k ultra hd / touchscreen 3840x2160,intel core i7 7820hk 2.9ghz,32gb,1tb ssd,nvidia geforce gtx 1080,windows 10,3.49kg,324954.72
+razer,gaming,14,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,256gb ssd,nvidia geforce gtx 1060,windows 10,1.95kg,138474.72
+razer,gaming,14,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,512gb ssd,nvidia geforce gtx 1060,windows 10,1.95kg,154458.72
+razer,ultrabook,12 1/2,ips panel 4k ultra hd / touchscreen 3840x2160,intel core i7 7500u 2.5ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.29kg,95850.72
+razer,gaming,17 1/3,4k ultra hd / touchscreen 3840x2160,intel core i7 7820hk 2.9ghz,32gb,512gb ssd,nvidia geforce gtx 1080,windows 10,3.49kg,292986.72
+razer,ultrabook,12 1/2,touchscreen / 4k ultra hd 3840x2160,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.25kg,54825.12
+razer,gaming,14,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,1tb ssd,nvidia geforce gtx 1060,windows 10,1.95kg,186426.72
+samsung,netbook,11 3/5,1366x768,intel celeron dual core n3060 1.6ghz,4gb,16gb flash storage,intel hd graphics 400,chrome os,1.15kg,14332.32
+samsung,notebook,15 3/5,full hd 1920x1080,intel core i7 7700hq 2.8ghz,16gb,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,windows 10,2.5kg,90522.72
+samsung,ultrabook,13 1/3,full hd 1920x1080,intel core i7 7500u 2.7ghz,16gb,256gb ssd,intel hd graphics 620,windows 10,0.81kg,87858.72
+samsung,ultrabook,13 1/3,full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.31kg,85194.72
+samsung,2 in 1 convertible,15,full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,16gb,256gb ssd,amd radeon 540,windows 10,1.71kg,95850.72
+samsung,ultrabook,13 1/3,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,0.81kg,79866.72
+samsung,ultrabook,15,full hd 1920x1080,intel core i7 7500u 2.7ghz,16gb,256gb ssd,nvidia geforce 940mx,windows 10,1.23kg,98514.72
+samsung,ultrabook,15,full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.17kg,90522.72
+samsung,2 in 1 convertible,12 1/3,ips panel touchscreen 2400x1600,samsung cortex a72&a53 2.0ghz,4gb,32gb flash storage,arm mali t860 mp4,chrome os,1.15kg,35111.52
+toshiba,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.1kg,32074.56
+toshiba,notebook,15 3/5,1366x768,intel core i3 6006u 2.2ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.1kg,23816.16
+toshiba,notebook,15 3/5,1366x768,intel core i3 7100u 2.4ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,5.4kg,26053.92
+toshiba,notebook,15 3/5,1366x768,intel core i5 7200u 2.5ghz,8gb,128gb ssd,intel hd graphics 620,windows 10,2.0kg,42251.04
+toshiba,ultrabook,13 1/3,full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.2kg,72620.64
+toshiba,notebook,15 3/5,1366x768,intel core i7 6500u 2.5ghz,8gb,500gb hdd,nvidia geforce 930m,windows 10,2.2kg,43263.36
+toshiba,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,nvidia geforce 930m,windows 10,2.2kg,55571.04
+toshiba,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2.0kg,50243.04
+toshiba,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 6500u 2.5ghz,16gb,512gb ssd,nvidia geforce 930m,windows 10,2.4kg,74751.84
+toshiba,ultrabook,13 1/3,full hd 1920x1080,intel core i7 6500u 2.5ghz,16gb,512gb ssd,intel hd graphics 520,windows 10,1.2kg,93080.16
+toshiba,notebook,13 1/3,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.05kg,89084.16
+toshiba,ultrabook,13 1/3,full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,32gb,512gb ssd,intel hd graphics 620,windows 10,1.05kg,149130.72
+toshiba,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,500gb hdd,intel hd graphics 620,windows 10,2.0kg,45820.8
+toshiba,ultrabook,14,full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.24kg,99367.2
+toshiba,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 6500u 2.5ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,2.2kg,74538.72
+toshiba,notebook,13 1/3,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.2kg,64628.64
+toshiba,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,500gb hdd,intel hd graphics 620,windows 10,2.0kg,56689.92
+toshiba,notebook,15 3/5,1366x768,intel core i3 6100u 2.1ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,2.1kg,26533.44
+toshiba,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2.0kg,67026.24
+toshiba,notebook,13 1/3,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.5kg,51841.44
+toshiba,ultrabook,13 1/3,full hd / touchscreen 1920x1080,intel core i7 6500u 2.5ghz,16gb,512gb ssd,intel hd graphics 520,windows 10,1.36kg,100006.56
+toshiba,notebook,14,ips panel full hd / touchscreen 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.25kg,81784.8
+toshiba,notebook,14,ips panel 1366x768,intel core i5 6200u 2.3ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,1.75kg,54345.6
+toshiba,ultrabook,14,ips panel full hd 1920x1080,intel core i7 6600u 2.6ghz,16gb,512gb ssd,nvidia geforce 930m,windows 10,1.47kg,93985.92
+toshiba,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,2.1kg,41558.4
+toshiba,ultrabook,14,1366x768,intel core i5 7200u 2.5ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,1.25kg,58075.2
+toshiba,notebook,14,1366x768,intel pentium dual core 4405u 2.1ghz,4gb,128gb ssd,intel hd graphics 510,windows 10,1.75kg,26586.72
+toshiba,notebook,15 3/5,1366x768,intel core i3 7100u 2.4ghz,4gb,500gb hdd,intel hd graphics 620,windows 10,2.0kg,35644.32
+toshiba,notebook,13 1/3,full hd 1920x1080,intel core i5 7200u 2.5ghz,4gb,128gb ssd,intel hd graphics 620,windows 10,1.05kg,68464.8
+toshiba,ultrabook,13 1/3,1366x768,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.2kg,58341.6
+toshiba,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 7500u 2.7ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,2.0kg,73952.64
+toshiba,notebook,13 1/3,full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,intel hd graphics 620,windows 10,1.05kg,78588
+toshiba,notebook,14,ips panel full hd 1920x1080,intel core i5 6200u 2.3ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,1.47kg,58874.4
+toshiba,notebook,15 3/5,1366x768,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,2.2kg,59620.32
+toshiba,notebook,13 1/3,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 7,1.2kg,77788.8
+toshiba,notebook,13 1/3,full hd 1920x1080,intel core i5 6300u 2.4ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.2kg,81784.8
+toshiba,ultrabook,12 1/2,full hd / touchscreen 1920x1080,intel core i7 7500u 2.7ghz,8gb,512gb ssd,intel hd graphics 620,windows 10,1.1kg,95371.2
+toshiba,notebook,14,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.95kg,62870.4
+toshiba,notebook,13 1/3,full hd 1920x1080,intel core i5 6200u 2.3ghz,4gb,128gb ssd,intel hd graphics 520,windows 7,1.2kg,63669.6
+toshiba,notebook,14,1366x768,intel core i5 6200u 2.3ghz,4gb,500gb hdd,intel hd graphics 520,windows 10,1.75kg,48751.2
+toshiba,notebook,13 1/3,full hd 1920x1080,intel core i5 6200u 2.3ghz,4gb,128gb ssd,intel hd graphics 520,windows 10,1.2kg,63669.6
+toshiba,notebook,13 1/3,1366x768,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.5kg,64468.8
+toshiba,notebook,14,ips panel full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.47kg,79387.2
+toshiba,ultrabook,13 1/3,full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.2kg,84715.2
+toshiba,ultrabook,14,ips panel full hd 1920x1080,intel core i7 6600u 2.6ghz,8gb,256gb ssd,intel hd graphics 520,windows 10,1.47kg,91908
+toshiba,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 6500u 2.5ghz,16gb,256gb ssd,nvidia geforce 930m,windows 10,2.4kg,75924
+toshiba,ultrabook,13 1/3,full hd 1920x1080,intel core i7 7500u 2.7ghz,16gb,512gb ssd,intel hd graphics 620,windows 10,1.05kg,118601.28
+vero,notebook,14,ips panel full hd 1920x1080,intel celeron dual core n3350 1.1ghz,4gb,32gb flash storage,intel hd graphics 500,windows 10,1.3kg,13852.8
+vero,notebook,14,1920x1080,intel celeron dual core n3350 1.1ghz,4gb,32gb flash storage,intel hd graphics 500,windows 10,1.22kg,10810.512
+vero,notebook,14,1366x768,intel atom x5-z8350 1.44ghz,2gb,32gb flash storage,intel hd graphics 400,windows 10,1.45kg,11231.424
+vero,notebook,13 1/3,full hd 1920x1080,intel atom x5-z8350 1.44ghz,4gb,32gb flash storage,intel hd graphics 400,windows 10,1.35kg,10442.88
+xiaomi,notebook,15 3/5,ips panel full hd 1920x1080,intel core i5 8250u 1.6ghz,8gb,256gb ssd,nvidia geforce mx150,no os,1.95kg,63882.72
+xiaomi,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core i5 7200u 2.5ghz,8gb,256gb ssd,nvidia geforce mx150,no os,1.3kg,53274.672
+xiaomi,notebook,15 3/5,ips panel full hd 1920x1080,intel core i7 8550u 1.8ghz,16gb,256gb ssd,nvidia geforce mx150,no os,1.95kg,74589.336
+xiaomi,ultrabook,13 1/3,ips panel full hd 1920x1080,intel core i5 6200u 2.3ghz,8gb,256gb ssd,nvidia geforce 940mx,windows 10,1.28kg,49816.8

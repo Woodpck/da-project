@@ -297,6 +297,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     generateVisual.disabled = uploadedFiles.length === 0;
     generateVisual.style.opacity = uploadedFiles.length > 0 ? "1" : "0.5";
+    generateVisual.disabled = uploadedFiles.length === 0;
+    generateVisual.style.opacity = uploadedFiles.length > 0 ? "1" : "0.5";
   }
 
   backButton.addEventListener("click", () => {
@@ -304,6 +306,9 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   generateVisual.addEventListener("click", () => {
+    if (uploadedFiles.length > 0) {
+      switchView("chart");
+    }
     if (uploadedFiles.length > 0) {
       switchView("chart");
     }
