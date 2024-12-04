@@ -46,6 +46,7 @@ def get_files():
 def download_file(filename): 
     return send_from_directory(UPLOAD_FOLDER, filename)
 
+
 # Cleaning operations
 # Remove Duplicates
 @app.route('/clean-duplicates', methods=['POST'])

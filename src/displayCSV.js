@@ -1,3 +1,4 @@
+
 document
   .getElementById("fileInput")
   .addEventListener("change", function (event) {
@@ -5,6 +6,7 @@ document
     const reader = new FileReader();
 
     reader.onload = function (e) {
+
       const text = e.target.result;
       displayCSV(text);
     };

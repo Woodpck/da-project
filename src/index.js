@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
     ".menu-item.sub-menu-item"
   ); // "example.csv" section
 
+
   document.getElementById("optionBarChart").addEventListener("click", () => {
     console.log("barchart clicked");
     barChart();
@@ -97,6 +98,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // for displaying files
   async function fetchFiles() {
     try {
+
       const response = await fetch("http://127.0.0.1:5000/files");
       const files = await response.json();
       console.log(files); // Print the files in the console
@@ -147,6 +149,7 @@ document.addEventListener("DOMContentLoaded", function () {
       table.appendChild(tr);
     });
 
+
     const tableContainer = document.createElement("div");
     tableContainer.className = "table-container";
     tableContainer.appendChild(table);
@@ -157,23 +160,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   let currentView = "upload";
   let uploadedFiles = []; // Track uploaded files
-
-  //   fetch("http://127.0.0.1:5000/get-data")
-  //     .then((response) => {
-  //       if (!response.ok) {
-  //         throw new Error("Network response was not ok " + response.statusText);
-  //       }
-  //       return response.json();
-  //     })
-  //     .then((data) => {
-  //       console.log(data); // Print the data to the console
-  //     })
-  //     .catch((error) => {
-  //       console.error(
-  //         "There has been a problem with your fetch operation:",
-  //         error
-  //       );
-  //     });
 
   const views = {
     upload: {
@@ -295,10 +281,9 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
 
-    generateVisual.disabled = uploadedFiles.length === 0;
-    generateVisual.style.opacity = uploadedFiles.length > 0 ? "1" : "0.5";
-    generateVisual.disabled = uploadedFiles.length === 0;
-    generateVisual.style.opacity = uploadedFiles.length > 0 ? "1" : "0.5";
+    //generateVisual.disabled = uploadedFiles.length === 0;
+    //generateVisual.style.opacity = uploadedFiles.length > 0 ? "1" : "0.5";
+
   }
 
   backButton.addEventListener("click", () => {
@@ -306,12 +291,10 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   generateVisual.addEventListener("click", () => {
-    if (uploadedFiles.length > 0) {
+    //if (uploadedFiles.length > 0) {
       switchView("chart");
-    }
-    if (uploadedFiles.length > 0) {
-      switchView("chart");
-    }
+   // }
+
   });
 
   tabs.forEach((tab) => {
@@ -360,6 +343,8 @@ const fileList = document.getElementById("fileList");
 uploadBtn.addEventListener("click", () => {
   fileInput.click();
 });
+
+
 
 // Handle file input change event
 // fileInput.addEventListener("change", (event) => {
