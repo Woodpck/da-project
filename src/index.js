@@ -16,21 +16,6 @@ document.addEventListener("DOMContentLoaded", function () {
     ".menu-item.sub-menu-item"
   ); // "example.csv" section
 
-
-  document.getElementById("optionBarChart").addEventListener("click", () => {
-    console.log("barchart clicked");
-    barChart();
-  });
-
-  document.getElementById("optionLineChart").addEventListener("click", () => {
-    console.log("linechart clicked");
-    lineChart();
-  });
-
-  document.getElementById("optionScatterPlot").addEventListener("click", () => {
-    console.log("scatter plot clicked");
-    scatterPlot();
-  });
   // Cleaning
   // document
   //   .getElementById("removeDuplicatesBtn")
@@ -192,8 +177,9 @@ document.addEventListener("DOMContentLoaded", function () {
     );
   }
 
-  document.getElementById("uploadBtn").addEventListener("click", function () {
+  uploadBtn.addEventListener("click", function () {
     document.getElementById("fileInput").click();
+    console.log("upload bututon pressed")
   });
 
   document
@@ -292,8 +278,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   generateVisual.addEventListener("click", () => {
     //if (uploadedFiles.length > 0) {
-      switchView("chart");
-   // }
+    switchView("chart");
+    // }
 
   });
 
