@@ -16,26 +16,105 @@ document.addEventListener("DOMContentLoaded", function () {
     ".menu-item.sub-menu-item"
   ); // "example.csv" section
 
+
+  document.getElementById("optionBarChart").addEventListener("click", () => {
+    console.log("barchart clicked");
+    barChart();
+  });
+
+  document.getElementById("optionLineChart").addEventListener("click", () => {
+    console.log("linechart clicked");
+    lineChart();
+  });
+
+  document.getElementById("optionScatterPlot").addEventListener("click", () => {
+    console.log("scatter plot clicked");
+    scatterPlot();
+  });
+  // Cleaning
+  // document
+  //   .getElementById("removeDuplicatesBtn")
+  //   .addEventListener("click", async () => {
+  //     try {
+  //       const response = await fetch("http://127.0.0.1:5000/clean-duplicates", {
+  //         method: "POST",
+  //       });
+  //       const result = await response.json();
+
+  //       if (response.ok) {
+  //         alert(result.message); // Notify success
+  //       } else {
+  //         alert(`Error: ${result.error}`);
+  //       }
+  //     } catch (error) {
+  //       console.error("Error removing duplicates:", error);
+  //       alert("Failed to remove duplicates. Please try again later.");
+  //     }
+  //   });
+
+  // document
+  //   .getElementById("fillMissingValuesBtn")
+  //   .addEventListener("click", async () => {
+  //     try {
+  //       const response = await fetch("http://127.0.0.1:5000/fill-missing", {
+  //         method: "POST",
+  //       });
+  //       const result = await response.json();
+
+  //       if (response.ok) {
+  //         alert(result.message); // Notify success
+  //       } else {
+  //         alert(`Error: ${result.error}`);
+  //       }
+  //     } catch (error) {
+  //       console.error("Error filling missing values:", error);
+  //       alert("Failed to fill missing values. Please try again later.");
+  //     }
+  //   });
+
+  // document
+  //   .getElementById("dropNaNRowsBtn")
+  //   .addEventListener("click", async () => {
+  //     try {
+  //       const response = await fetch("http://127.0.0.1:5000/drop-nan-rows", {
+  //         method: "POST",
+  //       });
+  //       const result = await response.json();
+
+  //       if (response.ok) {
+  //         alert(result.message);
+  //       } else {
+  //         alert(`Error: ${result.error}`);
+  //       }
+  //     } catch (error) {
+  //       console.error("Error dropping NaN rows:", error);
+  //       alert(
+  //         "Failed to drop rows with all NaN values. Please try again later."
+  //       );
+  //     }
+  //   });
+
   //File stuff
   // for displaying files
   async function fetchFiles() {
     try {
-      const response = await fetch('http://127.0.0.1:5000/files');
+
+      const response = await fetch("http://127.0.0.1:5000/files");
       const files = await response.json();
-      console.log(files); // Print the files in the console 
+      console.log(files); // Print the files in the console
 
-      const fileList = document.getElementById('file-list');
-      fileList.innerHTML = '';
+      const fileList = document.getElementById("file-list");
+      fileList.innerHTML = "";
 
-      files.forEach(file => {
-        const subMenuItem = document.createElement('div');
-        subMenuItem.className = 'menu-item sub-menu-container';
+      files.forEach((file) => {
+        const subMenuItem = document.createElement("div");
+        subMenuItem.className = "menu-item sub-menu-container";
         subMenuItem.innerHTML = `<span> ${file} </span>`;
-        subMenuItem.addEventListener('click', () => displayFileContent(file));
+        subMenuItem.addEventListener("click", () => displayFileContent(file));
         fileList.appendChild(subMenuItem);
-      })
+      });
     } catch (error) {
-      console.error('Error fetching files:', error);
+      console.error("Error fetching files:", error);
     }
   }
 
@@ -46,22 +125,23 @@ document.addEventListener("DOMContentLoaded", function () {
       const text = await response.text();
       displayCSV(text);
     } catch (error) {
-      console.error('Error fetching file content:', error);
+      console.error("Error fetching file content:", error);
     }
   }
 
   fetchFiles();
 
   function displayCSV(data) {
-    const rows = data.split('\n');
-    const table = document.createElement('table');
+    const rows = data.split("\n");
+    const table = document.createElement("table");
 
-    rows.slice(0, 5).forEach((row, index) => {  // Show only the first 5 rows
-      const tr = document.createElement('tr');
-      const cells = row.split(',');
+    rows.slice(0, 40).forEach((row, index) => {
+      // Show only the first 5 rows
+      const tr = document.createElement("tr");
+      const cells = row.split(",");
 
-      cells.forEach(cell => {
-        const cellElement = document.createElement(index === 0 ? 'th' : 'td');
+      cells.forEach((cell) => {
+        const cellElement = document.createElement(index === 0 ? "th" : "td");
         cellElement.textContent = cell;
         tr.appendChild(cellElement);
       });
@@ -69,15 +149,14 @@ document.addEventListener("DOMContentLoaded", function () {
       table.appendChild(tr);
     });
 
-    const tableContainer = document.createElement('div');
-    tableContainer.className = 'table-container';
+
+    const tableContainer = document.createElement("div");
+    tableContainer.className = "table-container";
     tableContainer.appendChild(table);
 
-    document.getElementById('fileList').innerHTML = '';
-    document.getElementById('fileList').appendChild(tableContainer);
+    document.getElementById("fileList").innerHTML = "";
+    document.getElementById("fileList").appendChild(tableContainer);
   }
-
-
 
   let currentView = "upload";
   let uploadedFiles = []; // Track uploaded files
@@ -204,6 +283,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     //generateVisual.disabled = uploadedFiles.length === 0;
     //generateVisual.style.opacity = uploadedFiles.length > 0 ? "1" : "0.5";
+
   }
 
   backButton.addEventListener("click", () => {
@@ -214,6 +294,7 @@ document.addEventListener("DOMContentLoaded", function () {
     //if (uploadedFiles.length > 0) {
       switchView("chart");
    // }
+
   });
 
   tabs.forEach((tab) => {

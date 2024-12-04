@@ -30,6 +30,7 @@
       <div class="nav-title">POGI ONLY</div>
       <div class="nav-tagline">
         Make your data handsome <span class="emoji">😎</span>
+
       </div>
     </div>
   </div>
@@ -57,6 +58,7 @@
         <div class="menu-item upload-new-file your-files">
           <span id="uploadBtn">+ Upload new file</span>
           <input type="file" accept=".csv" id="fileInput" style="display: none" />
+
         </div>
       </div>
 
@@ -67,22 +69,46 @@
           </div>
         </div>
 
-        <button id="backButton" class="back-button" style="display: none">
-          <span class="back-arrow">←</span>
-          Back to Projects
-        </button>
+          <button id="backButton" class="back-button" style="display: none">
+            <span class="back-arrow">←</span>
+            Back to Projects
+          </button>
 
-        <div id="contentContainer">
-          <!-- Initial Upload View -->
-          <div id="uploadView" class="view-section">
-            <div class="upload-area" id="dropZone">
-              <p>Drag and drop CSV files here or</p>
-              <form id="uploadForm">
-                <button class="button" id="uploadCsvBtn">Upload CSV</button>
-                <input type="file" accept=".csv" id="fileInput" style="display: none" />
-                <button class="button" type="submit">Save file</button>
-                <button id="deleteButton" class="delete-button button" onclick="deleteFile('${fileName}')">Delete</button>
-              </form>
+          <div id="contentContainer">
+            <!-- Initial Upload View -->
+            <div id="uploadView" class="view-section">
+              <div class="upload-area" id="dropZone">
+                <p>Drag and drop CSV files here or</p>
+                <form id="uploadForm">
+                  <button class="button" id="uploadCsvBtn">Upload CSV</button>
+                  <input
+                    type="file"
+                    accept=".csv"
+                    id="fileInput"
+                    style="display: none"
+                  />
+                  <button type="submit">Save file</button>
+                  <button id="deleteButton" class="delete-button button" onclick="deleteFile('${fileName}')">Delete</button>
+                </form>
+              </div>
+
+              <div class="file-list" id="fileList">
+                <!-- Dynamically added file items will appear here -->
+              </div>
+              <button class="button" style="float: right" id="generateVisual">
+                Generate visual report
+              </button>
+              <div class="cleaning-buttons">
+                <button id="removeDuplicatesBtn" class="button">
+                  Remove Duplicates
+                </button>
+                <button id="fillMissingValuesBtn" class="button">
+                  Fill Missing Values
+                </button>
+                <button id="dropNaNRowsBtn" class="button">
+                  Drop Rows with All NaN
+                </button>
+              </div>
             </div>
 
             <div class="file-list" id="fileList">
@@ -112,6 +138,7 @@
                 <div class="chart-option">
                   <h3>Scatter Plot</h3>
                   <canvas id="ScatterPlot" style="width:100%;max-width:600px"></canvas>
+
                 </div>
                 <div class="chart-option">
                   <h3>Grouped Bar Chart</h3>
@@ -126,6 +153,7 @@
                   <canvas id="LineGraph" style="width:100%;max-width:600px"></canvas>
                 </div>
               </div>
+              
             </div>
           </div>
             
@@ -150,6 +178,7 @@
             </div>
             <div class="preview-area">
               <div id="bog-body-chart"></div>
+
             </div>
           </div>
         </div>
